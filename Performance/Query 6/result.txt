@@ -1,0 +1,4574 @@
+ sort all-matchesChelsea GET # GET matches#-home_team GET matches#-away_team GET matches#-date GET matches#-home_score GET matches#-away_score
+
+   1) 18199
+   2) Chelsea
+   3) Newcastle United
+   4) Sunday August 19
+   5) 1
+   6) 1
+   7) 18365
+   8) Southampton
+   9) Chelsea
+  10) Saturday August 25
+  11) 0
+  12) 2
+  13) 18802
+  14) Chelsea
+  15) Arsenal
+  16) Saturday September 8
+  17) 1
+  18) 1
+  19) 19174
+  20) Tottenham Hotspur
+  21) Chelsea
+  22) Sunday September 16
+  23) 2
+  24) 3
+  25) 19399
+  26) Chelsea
+  27) Middlesbrough
+  28) Sunday September 23
+  29) 2
+  30) 2
+  31) 19606
+  32) Fulham
+  33) Chelsea
+  34) Sunday September 30
+  35) 1
+  36) 1
+  37) 20544
+  38) Chelsea
+  39) Leicester City
+  40) Saturday October 13
+  41) 2
+  42) 0
+  43) 21173
+  44) Leeds United
+  45) Chelsea
+  46) Sunday October 21
+  47) 0
+  48) 0
+  49) 21225
+  50) West Ham United
+  51) Chelsea
+  52) Wednesday October 24
+  53) 2
+  54) 1
+  55) 21340
+  56) Derby County
+  57) Chelsea
+  58) Sunday October 28
+  59) 1
+  60) 1
+  61) 21517
+  62) Chelsea
+  63) Ipswich Town
+  64) Sunday November 4
+  65) 2
+  66) 1
+  67) 21673
+  68) Everton
+  69) Chelsea
+  70) Sunday November 18
+  71) 0
+  72) 0
+  73) 21734
+  74) Chelsea
+  75) Blackburn Rovers
+  76) Saturday November 24
+  77) 0
+  78) 0
+  79) 21874
+  80) Manchester United
+  81) Chelsea
+  82) Saturday December 1
+  83) 0
+  84) 3
+  85) 22048
+  86) Sunderland
+  87) Chelsea
+  88) Sunday December 9
+  89) 0
+  90) 0
+  91) 22165
+  92) Chelsea
+  93) Liverpool
+  94) Sunday December 16
+  95) 4
+  96) 0
+  97) 22276
+  98) Chelsea
+  99) Bolton Wanderers
+ 100) Sunday December 23
+ 101) 5
+ 102) 1
+ 103) 22279
+ 104) Arsenal
+ 105) Chelsea
+ 106) Wednesday December 26
+ 107) 2
+ 108) 1
+ 109) 22363
+ 110) Newcastle United
+ 111) Chelsea
+ 112) Saturday December 29
+ 113) 1
+ 114) 2
+ 115) 22436
+ 116) Chelsea
+ 117) Southampton
+ 118) Tuesday January 1
+ 119) 2
+ 120) 4
+ 121) 22578
+ 122) Bolton Wanderers
+ 123) Chelsea
+ 124) Saturday January 12
+ 125) 2
+ 126) 2
+ 127) 22673
+ 128) Chelsea
+ 129) West Ham United
+ 130) Sunday January 20
+ 131) 5
+ 132) 1
+ 133) 22917
+ 134) Chelsea
+ 135) Leeds United
+ 136) Wednesday January 30
+ 137) 2
+ 138) 0
+ 139) 22947
+ 140) Leicester City
+ 141) Chelsea
+ 142) Saturday February 2
+ 143) 2
+ 144) 3
+ 145) 23095
+ 146) Aston Villa
+ 147) Chelsea
+ 148) Saturday February 9
+ 149) 1
+ 150) 1
+ 151) 23473
+ 152) Charlton Athletic
+ 153) Chelsea
+ 154) Saturday March 2
+ 155) 2
+ 156) 1
+ 157) 23617
+ 158) Chelsea
+ 159) Fulham
+ 160) Wednesday March 6
+ 161) 3
+ 162) 2
+ 163) 23747
+ 164) Chelsea
+ 165) Sunderland
+ 166) Saturday March 16
+ 167) 4
+ 168) 0
+ 169) 24000
+ 170) Chelsea
+ 171) Derby County
+ 172) Saturday March 30
+ 173) 2
+ 174) 1
+ 175) 24095
+ 176) Ipswich Town
+ 177) Chelsea
+ 178) Monday April 1
+ 179) 0
+ 180) 0
+ 181) 24163
+ 182) Chelsea
+ 183) Everton
+ 184) Saturday April 6
+ 185) 3
+ 186) 0
+ 187) 24397
+ 188) Chelsea
+ 189) Manchester United
+ 190) Saturday April 20
+ 191) 0
+ 192) 3
+ 193) 24506
+ 194) Middlesbrough
+ 195) Chelsea
+ 196) Saturday April 27
+ 197) 0
+ 198) 2
+ 199) 24620
+ 200) Chelsea
+ 201) Aston Villa
+ 202) Saturday May 11
+ 203) 1
+ 204) 3
+ 205) 26295
+ 206) Chelsea
+ 207) Charlton Athletic
+ 208) Wednesday December 5
+ 209) 0
+ 210) 1
+ 211) 38186
+ 212) Chelsea
+ 213) Tottenham Hotspur
+ 214) Wednesday March 13
+ 215) 4
+ 216) 0
+ 217) 38216
+ 218) Liverpool
+ 219) Chelsea
+ 220) Sunday March 24
+ 221) 1
+ 222) 0
+ 223) 47082
+ 224) Blackburn Rovers
+ 225) Chelsea
+ 226) Wednesday April 10
+ 227) 0
+ 228) 0
+ 229) 54417
+ 230) Charlton Athletic
+ 231) Chelsea
+ 232) Saturday August 17
+ 233) 2
+ 234) 3
+ 235) 54426
+ 236) Chelsea
+ 237) Manchester United
+ 238) Friday August 23
+ 239) 2
+ 240) 2
+ 241) 54445
+ 242) Southampton
+ 243) Chelsea
+ 244) Wednesday August 28
+ 245) 1
+ 246) 1
+ 247) 54454
+ 248) Chelsea
+ 249) Arsenal
+ 250) Sunday September 1
+ 251) 1
+ 252) 1
+ 253) 54459
+ 254) Blackburn Rovers
+ 255) Chelsea
+ 256) Wednesday September 11
+ 257) 2
+ 258) 3
+ 259) 54468
+ 260) Chelsea
+ 261) Newcastle United
+ 262) Saturday September 14
+ 263) 3
+ 264) 0
+ 265) 54478
+ 266) Fulham
+ 267) Chelsea
+ 268) Monday September 23
+ 269) 0
+ 270) 0
+ 271) 54488
+ 272) Chelsea
+ 273) West Ham United
+ 274) Saturday September 28
+ 275) 2
+ 276) 3
+ 277) 54503
+ 278) Liverpool
+ 279) Chelsea
+ 280) Sunday October 6
+ 281) 1
+ 282) 0
+ 283) 54509
+ 284) Manchester City
+ 285) Chelsea
+ 286) Saturday October 19
+ 287) 0
+ 288) 3
+ 289) 54517
+ 290) Chelsea
+ 291) West Bromwich Albion
+ 292) Saturday October 26
+ 293) 2
+ 294) 0
+ 295) 54531
+ 296) Tottenham Hotspur
+ 297) Chelsea
+ 298) Sunday November 3
+ 299) 0
+ 300) 0
+ 301) 54538
+ 302) Chelsea
+ 303) Birmingham City
+ 304) Saturday November 9
+ 305) 3
+ 306) 0
+ 307) 54548
+ 308) Chelsea
+ 309) Middlesbrough
+ 310) Saturday November 16
+ 311) 1
+ 312) 0
+ 313) 54556
+ 314) Bolton Wanderers
+ 315) Chelsea
+ 316) Saturday November 23
+ 317) 1
+ 318) 1
+ 319) 54568
+ 320) Chelsea
+ 321) Sunderland
+ 322) Saturday November 30
+ 323) 3
+ 324) 0
+ 325) 54578
+ 326) Everton
+ 327) Chelsea
+ 328) Saturday December 7
+ 329) 1
+ 330) 3
+ 331) 54590
+ 332) Middlesbrough
+ 333) Chelsea
+ 334) Saturday December 14
+ 335) 1
+ 336) 1
+ 337) 54598
+ 338) Chelsea
+ 339) Aston Villa
+ 340) Saturday December 21
+ 341) 2
+ 342) 0
+ 343) 54607
+ 344) Chelsea
+ 345) Southampton
+ 346) Thursday December 26
+ 347) 0
+ 348) 0
+ 349) 54620
+ 350) Leeds United
+ 351) Chelsea
+ 352) Saturday December 28
+ 353) 2
+ 354) 0
+ 355) 54625
+ 356) Arsenal
+ 357) Chelsea
+ 358) Wednesday January 1
+ 359) 3
+ 360) 2
+ 361) 54637
+ 362) Chelsea
+ 363) Charlton Athletic
+ 364) Saturday January 11
+ 365) 4
+ 366) 1
+ 367) 54652
+ 368) Manchester United
+ 369) Chelsea
+ 370) Saturday January 18
+ 371) 2
+ 372) 1
+ 373) 54660
+ 374) Chelsea
+ 375) Leeds United
+ 376) Tuesday January 28
+ 377) 3
+ 378) 2
+ 379) 54668
+ 380) Chelsea
+ 381) Tottenham Hotspur
+ 382) Saturday February 1
+ 383) 1
+ 384) 1
+ 385) 54675
+ 386) Birmingham City
+ 387) Chelsea
+ 388) Saturday February 8
+ 389) 1
+ 390) 3
+ 391) 54688
+ 392) Chelsea
+ 393) Blackburn Rovers
+ 394) Saturday February 22
+ 395) 1
+ 396) 2
+ 397) 54702
+ 398) Newcastle United
+ 399) Chelsea
+ 400) Saturday March 1
+ 401) 2
+ 402) 1
+ 403) 54718
+ 404) Chelsea
+ 405) Manchester City
+ 406) Saturday March 22
+ 407) 5
+ 408) 0
+ 409) 54733
+ 410) Sunderland
+ 411) Chelsea
+ 412) Saturday April 5
+ 413) 1
+ 414) 2
+ 415) 54738
+ 416) Chelsea
+ 417) Bolton Wanderers
+ 418) Saturday April 12
+ 419) 1
+ 420) 0
+ 421) 54745
+ 422) Aston Villa
+ 423) Chelsea
+ 424) Saturday April 19
+ 425) 2
+ 426) 1
+ 427) 54758
+ 428) Chelsea
+ 429) Everton
+ 430) Monday April 21
+ 431) 4
+ 432) 1
+ 433) 54768
+ 434) Chelsea
+ 435) Fulham
+ 436) Saturday April 26
+ 437) 1
+ 438) 1
+ 439) 54784
+ 440) West Ham United
+ 441) Chelsea
+ 442) Saturday May 3
+ 443) 1
+ 444) 0
+ 445) 54788
+ 446) Chelsea
+ 447) Liverpool
+ 448) Sunday May 11
+ 449) 2
+ 450) 1
+ 451) 86169
+ 452) West Bromwich Albion
+ 453) Chelsea
+ 454) Sunday March 16
+ 455) 0
+ 456) 2
+ 457) 107421
+ 458) Liverpool
+ 459) Chelsea
+ 460) Sunday August 17
+ 461) 1
+ 462) 2
+ 463) 107428
+ 464) Chelsea
+ 465) Leicester City
+ 466) Saturday August 23
+ 467) 2
+ 468) 1
+ 469) 107541
+ 470) Chelsea
+ 471) Blackburn Rovers
+ 472) Saturday August 30
+ 473) 2
+ 474) 2
+ 475) 107648
+ 476) Chelsea
+ 477) Tottenham Hotspur
+ 478) Saturday September 13
+ 479) 4
+ 480) 2
+ 481) 107735
+ 482) Wolverhampton Wanderers
+ 483) Chelsea
+ 484) Saturday September 20
+ 485) 0
+ 486) 5
+ 487) 107808
+ 488) Chelsea
+ 489) Aston Villa
+ 490) Saturday September 27
+ 491) 1
+ 492) 0
+ 493) 107952
+ 494) Middlesbrough
+ 495) Chelsea
+ 496) Sunday October 5
+ 497) 1
+ 498) 2
+ 499) 108020
+ 500) Birmingham City
+ 501) Chelsea
+ 502) Tuesday October 14
+ 503) 0
+ 504) 0
+ 505) 108028
+ 506) Arsenal
+ 507) Chelsea
+ 508) Saturday October 18
+ 509) 2
+ 510) 1
+ 511) 108110
+ 512) Chelsea
+ 513) Manchester City
+ 514) Saturday October 25
+ 515) 1
+ 516) 0
+ 517) 108153
+ 518) Everton
+ 519) Chelsea
+ 520) Saturday November 1
+ 521) 0
+ 522) 1
+ 523) 108229
+ 524) Chelsea
+ 525) Newcastle United
+ 526) Sunday November 9
+ 527) 5
+ 528) 0
+ 529) 108296
+ 530) Southampton
+ 531) Chelsea
+ 532) Saturday November 22
+ 533) 0
+ 534) 1
+ 535) 108413
+ 536) Chelsea
+ 537) Manchester United
+ 538) Sunday November 30
+ 539) 1
+ 540) 0
+ 541) 108418
+ 542) Leeds United
+ 543) Chelsea
+ 544) Saturday December 6
+ 545) 1
+ 546) 1
+ 547) 108451
+ 548) Chelsea
+ 549) Bolton Wanderers
+ 550) Saturday December 13
+ 551) 1
+ 552) 2
+ 553) 108511
+ 554) Fulham
+ 555) Chelsea
+ 556) Saturday December 20
+ 557) 0
+ 558) 1
+ 559) 108562
+ 560) Charlton Athletic
+ 561) Chelsea
+ 562) Friday December 26
+ 563) 4
+ 564) 2
+ 565) 108618
+ 566) Chelsea
+ 567) Portsmouth
+ 568) Sunday December 28
+ 569) 3
+ 570) 0
+ 571) 108712
+ 572) Chelsea
+ 573) Liverpool
+ 574) Wednesday January 7
+ 575) 0
+ 576) 1
+ 577) 108726
+ 578) Leicester City
+ 579) Chelsea
+ 580) Sunday January 11
+ 581) 0
+ 582) 4
+ 583) 108768
+ 584) Chelsea
+ 585) Birmingham City
+ 586) Sunday January 18
+ 587) 0
+ 588) 0
+ 589) 108861
+ 590) Blackburn Rovers
+ 591) Chelsea
+ 592) Sunday February 1
+ 593) 2
+ 594) 3
+ 595) 108907
+ 596) Chelsea
+ 597) Charlton Athletic
+ 598) Sunday February 8
+ 599) 1
+ 600) 0
+ 601) 108966
+ 602) Portsmouth
+ 603) Chelsea
+ 604) Wednesday February 11
+ 605) 0
+ 606) 2
+ 607) 109025
+ 608) Chelsea
+ 609) Arsenal
+ 610) Saturday February 21
+ 611) 1
+ 612) 2
+ 613) 109086
+ 614) Manchester City
+ 615) Chelsea
+ 616) Saturday February 28
+ 617) 0
+ 618) 1
+ 619) 109220
+ 620) Bolton Wanderers
+ 621) Chelsea
+ 622) Saturday March 13
+ 623) 0
+ 624) 2
+ 625) 109313
+ 626) Chelsea
+ 627) Fulham
+ 628) Saturday March 20
+ 629) 2
+ 630) 1
+ 631) 109373
+ 632) Chelsea
+ 633) Wolverhampton Wanderers
+ 634) Saturday March 27
+ 635) 5
+ 636) 2
+ 637) 109433
+ 638) Tottenham Hotspur
+ 639) Chelsea
+ 640) Saturday April 3
+ 641) 0
+ 642) 1
+ 643) 109490
+ 644) Chelsea
+ 645) Middlesbrough
+ 646) Saturday April 10
+ 647) 0
+ 648) 0
+ 649) 109539
+ 650) Aston Villa
+ 651) Chelsea
+ 652) Monday April 12
+ 653) 3
+ 654) 2
+ 655) 109601
+ 656) Chelsea
+ 657) Everton
+ 658) Saturday April 17
+ 659) 0
+ 660) 0
+ 661) 109661
+ 662) Newcastle United
+ 663) Chelsea
+ 664) Sunday April 25
+ 665) 2
+ 666) 1
+ 667) 109715
+ 668) Chelsea
+ 669) Southampton
+ 670) Saturday May 1
+ 671) 4
+ 672) 0
+ 673) 109762
+ 674) Manchester United
+ 675) Chelsea
+ 676) Saturday May 8
+ 677) 1
+ 678) 1
+ 679) 109808
+ 680) Chelsea
+ 681) Leeds United
+ 682) Saturday May 15
+ 683) 1
+ 684) 0
+ 685) 152089
+ 686) Chelsea
+ 687) Manchester United
+ 688) Sunday August 15
+ 689) 1
+ 690) 0
+ 691) 152108
+ 692) Birmingham City
+ 693) Chelsea
+ 694) Saturday August 21
+ 695) 0
+ 696) 1
+ 697) 152164
+ 698) Crystal Palace
+ 699) Chelsea
+ 700) Tuesday August 24
+ 701) 0
+ 702) 2
+ 703) 152176
+ 704) Chelsea
+ 705) Southampton
+ 706) Saturday August 28
+ 707) 2
+ 708) 1
+ 709) 152457
+ 710) Aston Villa
+ 711) Chelsea
+ 712) Saturday September 11
+ 713) 0
+ 714) 0
+ 715) 152622
+ 716) Chelsea
+ 717) Tottenham Hotspur
+ 718) Sunday September 19
+ 719) 0
+ 720) 0
+ 721) 152636
+ 722) Middlesbrough
+ 723) Chelsea
+ 724) Saturday September 25
+ 725) 0
+ 726) 1
+ 727) 152800
+ 728) Chelsea
+ 729) Liverpool
+ 730) Sunday October 3
+ 731) 1
+ 732) 0
+ 733) 152964
+ 734) Manchester City
+ 735) Chelsea
+ 736) Saturday October 16
+ 737) 1
+ 738) 0
+ 739) 153008
+ 740) Chelsea
+ 741) Blackburn Rovers
+ 742) Saturday October 23
+ 743) 4
+ 744) 0
+ 745) 153096
+ 746) West Bromwich Albion
+ 747) Chelsea
+ 748) Saturday October 30
+ 749) 1
+ 750) 4
+ 751) 153170
+ 752) Chelsea
+ 753) Everton
+ 754) Saturday November 6
+ 755) 1
+ 756) 0
+ 757) 153250
+ 758) Fulham
+ 759) Chelsea
+ 760) Saturday November 13
+ 761) 1
+ 762) 4
+ 763) 153306
+ 764) Chelsea
+ 765) Bolton Wanderers
+ 766) Saturday November 20
+ 767) 2
+ 768) 2
+ 769) 153375
+ 770) Charlton Athletic
+ 771) Chelsea
+ 772) Saturday November 27
+ 773) 0
+ 774) 4
+ 775) 153448
+ 776) Chelsea
+ 777) Newcastle United
+ 778) Saturday December 4
+ 779) 4
+ 780) 0
+ 781) 153603
+ 782) Arsenal
+ 783) Chelsea
+ 784) Sunday December 12
+ 785) 2
+ 786) 2
+ 787) 153612
+ 788) Chelsea
+ 789) Norwich City
+ 790) Saturday December 18
+ 791) 4
+ 792) 0
+ 793) 153684
+ 794) Chelsea
+ 795) Aston Villa
+ 796) Sunday December 26
+ 797) 1
+ 798) 0
+ 799) 153766
+ 800) Portsmouth
+ 801) Chelsea
+ 802) Tuesday December 28
+ 803) 0
+ 804) 2
+ 805) 153831
+ 806) Liverpool
+ 807) Chelsea
+ 808) Saturday January 1
+ 809) 0
+ 810) 1
+ 811) 154001
+ 812) Tottenham Hotspur
+ 813) Chelsea
+ 814) Saturday January 15
+ 815) 0
+ 816) 2
+ 817) 154062
+ 818) Chelsea
+ 819) Portsmouth
+ 820) Saturday January 22
+ 821) 3
+ 822) 0
+ 823) 154199
+ 824) Blackburn Rovers
+ 825) Chelsea
+ 826) Wednesday February 2
+ 827) 0
+ 828) 1
+ 829) 154282
+ 830) Everton
+ 831) Chelsea
+ 832) Saturday February 12
+ 833) 0
+ 834) 1
+ 835) 154537
+ 836) Norwich City
+ 837) Chelsea
+ 838) Saturday March 5
+ 839) 1
+ 840) 3
+ 841) 154692
+ 842) Chelsea
+ 843) Crystal Palace
+ 844) Saturday March 19
+ 845) 4
+ 846) 1
+ 847) 154884
+ 848) Southampton
+ 849) Chelsea
+ 850) Saturday April 2
+ 851) 1
+ 852) 3
+ 853) 154968
+ 854) Chelsea
+ 855) Birmingham City
+ 856) Saturday April 9
+ 857) 1
+ 858) 1
+ 859) 155126
+ 860) Chelsea
+ 861) Arsenal
+ 862) Wednesday April 20
+ 863) 0
+ 864) 0
+ 865) 155133
+ 866) Chelsea
+ 867) Fulham
+ 868) Saturday April 23
+ 869) 3
+ 870) 1
+ 871) 155204
+ 872) Bolton Wanderers
+ 873) Chelsea
+ 874) Saturday April 30
+ 875) 0
+ 876) 2
+ 877) 155277
+ 878) Chelsea
+ 879) Charlton Athletic
+ 880) Saturday May 7
+ 881) 1
+ 882) 0
+ 883) 169771
+ 884) Chelsea
+ 885) Middlesbrough
+ 886) Tuesday January 4
+ 887) 2
+ 888) 0
+ 889) 169915
+ 890) Chelsea
+ 891) Manchester City
+ 892) Sunday February 6
+ 893) 0
+ 894) 0
+ 895) 175977
+ 896) Chelsea
+ 897) West Bromwich Albion
+ 898) Tuesday March 15
+ 899) 1
+ 900) 0
+ 901) 179854
+ 902) Newcastle United
+ 903) Chelsea
+ 904) Sunday May 15
+ 905) 1
+ 906) 1
+ 907) 183535
+ 908) Manchester United
+ 909) Chelsea
+ 910) Tuesday May 10
+ 911) 1
+ 912) 3
+ 913) 184283
+ 914) Chelsea
+ 915) West Bromwich Albion
+ 916) Wednesday August 24
+ 917) 4
+ 918) 0
+ 919) 184302
+ 920) Tottenham Hotspur
+ 921) Chelsea
+ 922) Saturday August 27
+ 923) 0
+ 924) 2
+ 925) 184397
+ 926) Chelsea
+ 927) Sunderland
+ 928) Saturday September 10
+ 929) 2
+ 930) 0
+ 931) 184453
+ 932) Charlton Athletic
+ 933) Chelsea
+ 934) Saturday September 17
+ 935) 0
+ 936) 2
+ 937) 184509
+ 938) Chelsea
+ 939) Aston Villa
+ 940) Saturday September 24
+ 941) 2
+ 942) 1
+ 943) 184661
+ 944) Chelsea
+ 945) Bolton Wanderers
+ 946) Saturday October 15
+ 947) 5
+ 948) 1
+ 949) 184760
+ 950) Chelsea
+ 951) Blackburn Rovers
+ 952) Saturday October 29
+ 953) 4
+ 954) 2
+ 955) 184867
+ 956) Chelsea
+ 957) Newcastle United
+ 958) Saturday November 19
+ 959) 3
+ 960) 0
+ 961) 184929
+ 962) Portsmouth
+ 963) Chelsea
+ 964) Saturday November 26
+ 965) 0
+ 966) 2
+ 967) 184982
+ 968) Chelsea
+ 969) Middlesbrough
+ 970) Saturday December 3
+ 971) 1
+ 972) 0
+ 973) 185008
+ 974) Chelsea
+ 975) Wigan Athletic
+ 976) Saturday December 10
+ 977) 1
+ 978) 0
+ 979) 185100
+ 980) Chelsea
+ 981) Fulham
+ 982) Monday December 26
+ 983) 3
+ 984) 2
+ 985) 185158
+ 986) Manchester City
+ 987) Chelsea
+ 988) Wednesday December 28
+ 989) 0
+ 990) 1
+ 991) 185215
+ 992) Chelsea
+ 993) Birmingham City
+ 994) Saturday December 31
+ 995) 2
+ 996) 0
+ 997) 185253
+ 998) West Ham United
+ 999) Chelsea
+1000) Monday January 2
+1001) 1
+1002) 3
+1003) 185450
+1004) Aston Villa
+1005) Chelsea
+1006) Wednesday February 1
+1007) 1
+1008) 1
+1009) 185510
+1010) Middlesbrough
+1011) Chelsea
+1012) Saturday February 11
+1013) 3
+1014) 0
+1015) 185621
+1016) Chelsea
+1017) Portsmouth
+1018) Saturday February 25
+1019) 2
+1020) 0
+1021) 185669
+1022) West Bromwich Albion
+1023) Chelsea
+1024) Saturday March 4
+1025) 1
+1026) 2
+1027) 185701
+1028) Chelsea
+1029) Tottenham Hotspur
+1030) Saturday March 11
+1031) 2
+1032) 1
+1033) 185794
+1034) Chelsea
+1035) Manchester City
+1036) Saturday March 25
+1037) 2
+1038) 0
+1039) 185850
+1040) Birmingham City
+1041) Chelsea
+1042) Saturday April 1
+1043) 0
+1044) 0
+1045) 185921
+1046) Bolton Wanderers
+1047) Chelsea
+1048) Saturday April 15
+1049) 0
+1050) 2
+1051) 185984
+1052) Chelsea
+1053) Everton
+1054) Monday April 17
+1055) 3
+1056) 0
+1057) 186097
+1058) Chelsea
+1059) Manchester United
+1060) Saturday April 29
+1061) 3
+1062) 0
+1063) 186159
+1064) Newcastle United
+1065) Chelsea
+1066) Sunday May 7
+1067) 1
+1068) 0
+1069) 186495
+1070) Wigan Athletic
+1071) Chelsea
+1072) Sunday August 14
+1073) 0
+1074) 1
+1075) 186497
+1076) Chelsea
+1077) Arsenal
+1078) Sunday August 21
+1079) 1
+1080) 0
+1081) 186500
+1082) Everton
+1083) Chelsea
+1084) Sunday October 23
+1085) 1
+1086) 1
+1087) 186503
+1088) Manchester United
+1089) Chelsea
+1090) Sunday November 6
+1091) 1
+1092) 0
+1093) 186518
+1094) Arsenal
+1095) Chelsea
+1096) Sunday December 18
+1097) 0
+1098) 2
+1099) 186522
+1100) Sunderland
+1101) Chelsea
+1102) Sunday January 15
+1103) 1
+1104) 2
+1105) 186526
+1106) Liverpool
+1107) Chelsea
+1108) Sunday October 2
+1109) 1
+1110) 4
+1111) 190633
+1112) Chelsea
+1113) Charlton Athletic
+1114) Sunday January 22
+1115) 1
+1116) 1
+1117) 190636
+1118) Chelsea
+1119) Liverpool
+1120) Sunday February 5
+1121) 2
+1122) 0
+1123) 192470
+1124) Chelsea
+1125) West Ham United
+1126) Sunday April 9
+1127) 4
+1128) 1
+1129) 192488
+1130) Fulham
+1131) Chelsea
+1132) Sunday March 19
+1133) 1
+1134) 0
+1135) 195993
+1136) Blackburn Rovers
+1137) Chelsea
+1138) Tuesday May 2
+1139) 1
+1140) 0
+1141) 199092
+1142) Chelsea
+1143) Manchester City
+1144) Sunday August 20
+1145) 3
+1146) 0
+1147) 199100
+1148) Middlesbrough
+1149) Chelsea
+1150) Wednesday August 23
+1151) 2
+1152) 1
+1153) 199109
+1154) Blackburn Rovers
+1155) Chelsea
+1156) Sunday August 27
+1157) 0
+1158) 2
+1159) 199116
+1160) Chelsea
+1161) Charlton Athletic
+1162) Saturday September 9
+1163) 2
+1164) 1
+1165) 199126
+1166) Chelsea
+1167) Liverpool
+1168) Sunday September 17
+1169) 1
+1170) 0
+1171) 199133
+1172) Fulham
+1173) Chelsea
+1174) Saturday September 23
+1175) 0
+1176) 2
+1177) 199143
+1178) Chelsea
+1179) Aston Villa
+1180) Saturday September 30
+1181) 1
+1182) 1
+1183) 199159
+1184) Reading
+1185) Chelsea
+1186) Saturday October 14
+1187) 0
+1188) 1
+1189) 199166
+1190) Chelsea
+1191) Portsmouth
+1192) Saturday October 21
+1193) 2
+1194) 1
+1195) 199172
+1196) Sheffield United
+1197) Chelsea
+1198) Saturday October 28
+1199) 0
+1200) 2
+1201) 199191
+1202) Tottenham Hotspur
+1203) Chelsea
+1204) Sunday November 5
+1205) 2
+1206) 1
+1207) 199194
+1208) Chelsea
+1209) Watford
+1210) Saturday November 11
+1211) 4
+1212) 0
+1213) 199203
+1214) Chelsea
+1215) West Ham United
+1216) Saturday November 18
+1217) 1
+1218) 0
+1219) 199221
+1220) Manchester United
+1221) Chelsea
+1222) Sunday November 26
+1223) 1
+1224) 1
+1225) 199227
+1226) Bolton Wanderers
+1227) Chelsea
+1228) Wednesday November 29
+1229) 0
+1230) 1
+1231) 199250
+1232) Chelsea
+1233) Arsenal
+1234) Sunday December 10
+1235) 1
+1236) 1
+1237) 199261
+1238) Everton
+1239) Chelsea
+1240) Sunday December 17
+1241) 2
+1242) 3
+1243) 199272
+1244) Wigan Athletic
+1245) Chelsea
+1246) Saturday December 23
+1247) 2
+1248) 3
+1249) 199273
+1250) Chelsea
+1251) Reading
+1252) Tuesday December 26
+1253) 2
+1254) 2
+1255) 199292
+1256) Chelsea
+1257) Fulham
+1258) Saturday December 30
+1259) 2
+1260) 2
+1261) 199307
+1262) Chelsea
+1263) Wigan Athletic
+1264) Saturday January 13
+1265) 4
+1266) 0
+1267) 199320
+1268) Liverpool
+1269) Chelsea
+1270) Saturday January 20
+1271) 2
+1272) 0
+1273) 199331
+1274) Chelsea
+1275) Blackburn Rovers
+1276) Wednesday January 31
+1277) 3
+1278) 0
+1279) 199342
+1280) Charlton Athletic
+1281) Chelsea
+1282) Saturday February 3
+1283) 0
+1284) 1
+1285) 199349
+1286) Chelsea
+1287) Middlesbrough
+1288) Saturday February 10
+1289) 3
+1290) 0
+1291) 199364
+1292) Portsmouth
+1293) Chelsea
+1294) Saturday March 3
+1295) 0
+1296) 2
+1297) 199382
+1298) Chelsea
+1299) Sheffield United
+1300) Saturday March 17
+1301) 3
+1302) 0
+1303) 199384
+1304) Watford
+1305) Chelsea
+1306) Saturday March 31
+1307) 0
+1308) 1
+1309) 199396
+1310) Chelsea
+1311) Tottenham Hotspur
+1312) Saturday April 7
+1313) 1
+1314) 0
+1315) 199439
+1316) Chelsea
+1317) Bolton Wanderers
+1318) Saturday April 28
+1319) 2
+1320) 2
+1321) 199461
+1322) Chelsea
+1323) Everton
+1324) Sunday May 13
+1325) 1
+1326) 1
+1327) 206955
+1328) Aston Villa
+1329) Chelsea
+1330) Tuesday January 2
+1331) 0
+1332) 0
+1333) 209439
+1334) Chelsea
+1335) Newcastle United
+1336) Wednesday December 13
+1337) 1
+1338) 0
+1339) 214049
+1340) Manchester City
+1341) Chelsea
+1342) Wednesday March 14
+1343) 0
+1344) 1
+1345) 215179
+1346) West Ham United
+1347) Chelsea
+1348) Wednesday April 18
+1349) 1
+1350) 4
+1351) 215428
+1352) Chelsea
+1353) Manchester United
+1354) Wednesday May 9
+1355) 0
+1356) 0
+1357) 215447
+1358) Newcastle United
+1359) Chelsea
+1360) Sunday April 22
+1361) 0
+1362) 0
+1363) 215452
+1364) Arsenal
+1365) Chelsea
+1366) Sunday May 6
+1367) 1
+1368) 1
+1369) 219123
+1370) Chelsea
+1371) Portsmouth
+1372) Saturday August 25
+1373) 1
+1374) 0
+1375) 219237
+1376) Chelsea
+1377) Blackburn Rovers
+1378) Saturday September 15
+1379) 0
+1380) 0
+1381) 219341
+1382) Chelsea
+1383) Fulham
+1384) Saturday September 29
+1385) 0
+1386) 0
+1387) 219498
+1388) Middlesbrough
+1389) Chelsea
+1390) Saturday October 20
+1391) 0
+1392) 2
+1393) 219552
+1394) Chelsea
+1395) Manchester City
+1396) Saturday October 27
+1397) 6
+1398) 0
+1399) 219605
+1400) Wigan Athletic
+1401) Chelsea
+1402) Saturday November 3
+1403) 0
+1404) 2
+1405) 219727
+1406) Derby County
+1407) Chelsea
+1408) Saturday November 24
+1409) 0
+1410) 2
+1411) 219784
+1412) Chelsea
+1413) West Ham United
+1414) Saturday December 1
+1415) 1
+1416) 0
+1417) 219843
+1418) Chelsea
+1419) Sunderland
+1420) Saturday December 8
+1421) 2
+1422) 0
+1423) 219979
+1424) Chelsea
+1425) Aston Villa
+1426) Wednesday December 26
+1427) 4
+1428) 4
+1429) 220025
+1430) Chelsea
+1431) Newcastle United
+1432) Saturday December 29
+1433) 2
+1434) 1
+1435) 220074
+1436) Fulham
+1437) Chelsea
+1438) Tuesday January 1
+1439) 1
+1440) 2
+1441) 220299
+1442) Chelsea
+1443) Reading
+1444) Wednesday January 30
+1445) 1
+1446) 0
+1447) 220308
+1448) Portsmouth
+1449) Chelsea
+1450) Saturday February 2
+1451) 1
+1452) 1
+1453) 220521
+1454) West Ham United
+1455) Chelsea
+1456) Saturday March 1
+1457) 0
+1458) 4
+1459) 220659
+1460) Sunderland
+1461) Chelsea
+1462) Saturday March 15
+1463) 0
+1464) 1
+1465) 220953
+1466) Chelsea
+1467) Manchester United
+1468) Saturday April 26
+1469) 2
+1470) 1
+1471) 221045
+1472) Chelsea
+1473) Bolton Wanderers
+1474) Sunday May 11
+1475) 1
+1476) 1
+1477) 221289
+1478) Chelsea
+1479) Birmingham City
+1480) Sunday August 12
+1481) 3
+1482) 2
+1483) 221294
+1484) Reading
+1485) Chelsea
+1486) Wednesday August 15
+1487) 1
+1488) 2
+1489) 221297
+1490) Liverpool
+1491) Chelsea
+1492) Sunday August 19
+1493) 1
+1494) 1
+1495) 221304
+1496) Aston Villa
+1497) Chelsea
+1498) Sunday September 2
+1499) 2
+1500) 0
+1501) 221312
+1502) Manchester United
+1503) Chelsea
+1504) Sunday September 23
+1505) 2
+1506) 0
+1507) 221318
+1508) Bolton Wanderers
+1509) Chelsea
+1510) Sunday October 7
+1511) 0
+1512) 1
+1513) 230578
+1514) Chelsea
+1515) Everton
+1516) Sunday November 11
+1517) 1
+1518) 1
+1519) 230602
+1520) Blackburn Rovers
+1521) Chelsea
+1522) Sunday December 23
+1523) 0
+1524) 1
+1525) 233124
+1526) Arsenal
+1527) Chelsea
+1528) Sunday December 16
+1529) 1
+1530) 0
+1531) 233240
+1532) Chelsea
+1533) Liverpool
+1534) Sunday February 10
+1535) 0
+1536) 0
+1537) 233746
+1538) Birmingham City
+1539) Chelsea
+1540) Saturday January 19
+1541) 0
+1542) 1
+1543) 234108
+1544) Chelsea
+1545) Tottenham Hotspur
+1546) Saturday January 12
+1547) 2
+1548) 0
+1549) 235633
+1550) Chelsea
+1551) Arsenal
+1552) Sunday March 23
+1553) 2
+1554) 1
+1555) 236639
+1556) Tottenham Hotspur
+1557) Chelsea
+1558) Wednesday March 19
+1559) 4
+1560) 4
+1561) 237535
+1562) Chelsea
+1563) Derby County
+1564) Wednesday March 12
+1565) 6
+1566) 1
+1567) 237602
+1568) Chelsea
+1569) Wigan Athletic
+1570) Monday April 14
+1571) 1
+1572) 1
+1573) 238386
+1574) Chelsea
+1575) Middlesbrough
+1576) Sunday March 30
+1577) 1
+1578) 0
+1579) 238387
+1580) Manchester City
+1581) Chelsea
+1582) Saturday April 5
+1583) 0
+1584) 2
+1585) 238757
+1586) Everton
+1587) Chelsea
+1588) Thursday April 17
+1589) 0
+1590) 1
+1591) 239780
+1592) Newcastle United
+1593) Chelsea
+1594) Monday May 5
+1595) 0
+1596) 2
+1597) 242074
+1598) Manchester City
+1599) Chelsea
+1600) Saturday September 13
+1601) 1
+1602) 3
+1603) 242225
+1604) Stoke City
+1605) Chelsea
+1606) Saturday September 27
+1607) 0
+1608) 2
+1609) 242297
+1610) Chelsea
+1611) Aston Villa
+1612) Sunday October 5
+1613) 2
+1614) 0
+1615) 242394
+1616) Middlesbrough
+1617) Chelsea
+1618) Saturday October 18
+1619) 0
+1620) 5
+1621) 242599
+1622) Chelsea
+1623) Sunderland
+1624) Saturday November 1
+1625) 5
+1626) 0
+1627) 242722
+1628) West Bromwich Albion
+1629) Chelsea
+1630) Saturday November 15
+1631) 0
+1632) 3
+1633) 242782
+1634) Chelsea
+1635) Newcastle United
+1636) Saturday November 22
+1637) 0
+1638) 0
+1639) 242914
+1640) Bolton Wanderers
+1641) Chelsea
+1642) Saturday December 6
+1643) 0
+1644) 2
+1645) 242992
+1646) Chelsea
+1647) West Ham United
+1648) Sunday December 14
+1649) 1
+1650) 1
+1651) 243061
+1652) Everton
+1653) Chelsea
+1654) Monday December 22
+1655) 0
+1656) 0
+1657) 243126
+1658) Chelsea
+1659) West Bromwich Albion
+1660) Friday December 26
+1661) 2
+1662) 0
+1663) 243196
+1664) Fulham
+1665) Chelsea
+1666) Sunday December 28
+1667) 2
+1668) 2
+1669) 243287
+1670) Manchester United
+1671) Chelsea
+1672) Sunday January 11
+1673) 3
+1674) 0
+1675) 243336
+1676) Chelsea
+1677) Stoke City
+1678) Saturday January 17
+1679) 2
+1680) 1
+1681) 243488
+1682) Chelsea
+1683) Middlesbrough
+1684) Wednesday January 28
+1685) 2
+1686) 0
+1687) 243497
+1688) Liverpool
+1689) Chelsea
+1690) Sunday February 1
+1691) 2
+1692) 0
+1693) 243596
+1694) Chelsea
+1695) Hull City
+1696) Saturday February 7
+1697) 0
+1698) 0
+1699) 243709
+1700) Aston Villa
+1701) Chelsea
+1702) Saturday February 21
+1703) 0
+1704) 1
+1705) 243778
+1706) Chelsea
+1707) Wigan Athletic
+1708) Saturday February 28
+1709) 2
+1710) 1
+1711) 243842
+1712) Portsmouth
+1713) Chelsea
+1714) Tuesday March 3
+1715) 0
+1716) 1
+1717) 243989
+1718) Chelsea
+1719) Manchester City
+1720) Sunday March 15
+1721) 1
+1722) 0
+1723) 244060
+1724) Tottenham Hotspur
+1725) Chelsea
+1726) Saturday March 21
+1727) 1
+1728) 0
+1729) 244151
+1730) Newcastle United
+1731) Chelsea
+1732) Saturday April 4
+1733) 0
+1734) 2
+1735) 244212
+1736) Chelsea
+1737) Bolton Wanderers
+1738) Saturday April 11
+1739) 4
+1740) 3
+1741) 244315
+1742) Chelsea
+1743) Everton
+1744) Wednesday April 22
+1745) 0
+1746) 0
+1747) 244390
+1748) (nil)
+1749) (nil)
+1750) (nil)
+1751) (nil)
+1752) (nil)
+1753) 244443
+1754) Chelsea
+1755) Fulham
+1756) Saturday May 2
+1757) 3
+1758) 1
+1759) 244503
+1760) Arsenal
+1761) Chelsea
+1762) Sunday May 10
+1763) 1
+1764) 4
+1765) 244529
+1766) Chelsea
+1767) Blackburn Rovers
+1768) Sunday May 17
+1769) 2
+1770) 0
+1771) 244545
+1772) Sunderland
+1773) Chelsea
+1774) Sunday May 24
+1775) 2
+1776) 3
+1777) 246338
+1778) Chelsea
+1779) Arsenal
+1780) Sunday November 30
+1781) 1
+1782) 2
+1783) 246344
+1784) Chelsea
+1785) Liverpool
+1786) Sunday October 26
+1787) 0
+1788) 1
+1789) 246346
+1790) Chelsea
+1791) Portsmouth
+1792) Sunday August 17
+1793) 4
+1794) 0
+1795) 246348
+1796) Wigan Athletic
+1797) Chelsea
+1798) Sunday August 24
+1799) 0
+1800) 1
+1801) 246352
+1802) Chelsea
+1803) Tottenham Hotspur
+1804) Sunday August 31
+1805) 1
+1806) 1
+1807) 246354
+1808) Hull City
+1809) Chelsea
+1810) Wednesday October 29
+1811) 0
+1812) 3
+1813) 246359
+1814) Chelsea
+1815) Manchester United
+1816) Sunday September 21
+1817) 1
+1818) 1
+1819) 246365
+1820) Blackburn Rovers
+1821) Chelsea
+1822) Sunday November 9
+1823) 0
+1824) 2
+1825) 269758
+1826) Chelsea
+1827) Wigan Athletic
+1828) Sunday May 9
+1829) 8
+1830) 0
+1831) 269761
+1832) Hull City
+1833) Chelsea
+1834) Tuesday February 2
+1835) 1
+1836) 1
+1837) 269763
+1838) Tottenham Hotspur
+1839) Chelsea
+1840) Saturday April 17
+1841) 2
+1842) 1
+1843) 269775
+1844) Bolton Wanderers
+1845) Chelsea
+1846) Saturday October 31
+1847) 0
+1848) 4
+1849) 269794
+1850) Chelsea
+1851) Manchester United
+1852) Sunday November 8
+1853) 1
+1854) 0
+1855) 269795
+1856) Everton
+1857) Chelsea
+1858) Wednesday February 10
+1859) 2
+1860) 1
+1861) 269805
+1862) Chelsea
+1863) Birmingham City
+1864) Wednesday January 27
+1865) 3
+1866) 0
+1867) 269814
+1868) Birmingham City
+1869) Chelsea
+1870) Saturday December 26
+1871) 0
+1872) 0
+1873) 269815
+1874) Chelsea
+1875) Bolton Wanderers
+1876) Tuesday April 13
+1877) 1
+1878) 0
+1879) 269840
+1880) Portsmouth
+1881) Chelsea
+1882) Wednesday March 24
+1883) 0
+1884) 5
+1885) 269843
+1886) Burnley
+1887) Chelsea
+1888) Saturday January 30
+1889) 1
+1890) 2
+1891) 269846
+1892) Chelsea
+1893) Stoke City
+1894) Sunday April 25
+1895) 7
+1896) 0
+1897) 269877
+1898) Wigan Athletic
+1899) Chelsea
+1900) Saturday September 26
+1901) 3
+1902) 1
+1903) 269887
+1904) Blackburn Rovers
+1905) Chelsea
+1906) Sunday March 21
+1907) 1
+1908) 1
+1909) 269893
+1910) Chelsea
+1911) Everton
+1912) Saturday December 12
+1913) 3
+1914) 3
+1915) 269903
+1916) Manchester United
+1917) Chelsea
+1918) Saturday April 3
+1919) 1
+1920) 2
+1921) 269904
+1922) Sunderland
+1923) Chelsea
+1924) Tuesday August 18
+1925) 1
+1926) 3
+1927) 269929
+1928) Fulham
+1929) Chelsea
+1930) Sunday August 23
+1931) 0
+1932) 2
+1933) 269930
+1934) Chelsea
+1935) Sunderland
+1936) Saturday January 16
+1937) 7
+1938) 2
+1939) 269936
+1940) Chelsea
+1941) Fulham
+1942) Monday December 28
+1943) 2
+1944) 1
+1945) 269941
+1946) Chelsea
+1947) Burnley
+1948) Saturday August 29
+1949) 3
+1950) 0
+1951) 269946
+1952) Chelsea
+1953) Blackburn Rovers
+1954) Saturday October 24
+1955) 5
+1956) 0
+1957) 269958
+1958) Chelsea
+1959) Aston Villa
+1960) Saturday March 27
+1961) 7
+1962) 1
+1963) 269963
+1964) Wolverhampton Wanderers
+1965) Chelsea
+1966) Saturday February 20
+1967) 0
+1968) 2
+1969) 269970
+1970) Aston Villa
+1971) Chelsea
+1972) Saturday October 17
+1973) 2
+1974) 1
+1975) 269972
+1976) Liverpool
+1977) Chelsea
+1978) Sunday May 2
+1979) 0
+1980) 2
+1981) 269985
+1982) Chelsea
+1983) Portsmouth
+1984) Wednesday December 16
+1985) 2
+1986) 1
+1987) 270001
+1988) Chelsea
+1989) Hull City
+1990) Saturday August 15
+1991) 2
+1992) 1
+1993) 270002
+1994) Chelsea
+1995) Wolverhampton Wanderers
+1996) Saturday November 21
+1997) 4
+1998) 0
+1999) 270015
+2000) (nil)
+2001) (nil)
+2002) (nil)
+2003) (nil)
+2004) (nil)
+2005) 270024
+2006) West Ham United
+2007) Chelsea
+2008) Sunday December 20
+2009) 1
+2010) 1
+2011) 270033
+2012) Chelsea
+2013) Tottenham Hotspur
+2014) Sunday September 20
+2015) 3
+2016) 0
+2017) 270045
+2018) Chelsea
+2019) Manchester City
+2020) Saturday February 27
+2021) 2
+2022) 4
+2023) 270066
+2024) Manchester City
+2025) Chelsea
+2026) Saturday December 5
+2027) 2
+2028) 1
+2029) 270081
+2030) Chelsea
+2031) Arsenal
+2032) Sunday February 7
+2033) 2
+2034) 0
+2035) 270084
+2036) Arsenal
+2037) Chelsea
+2038) Sunday November 29
+2039) 0
+2040) 3
+2041) 270111
+2042) Chelsea
+2043) Liverpool
+2044) Sunday October 4
+2045) 2
+2046) 0
+2047) 270123
+2048) Chelsea
+2049) West Ham United
+2050) Saturday March 13
+2051) 4
+2052) 1
+2053) 292831
+2054) Chelsea
+2055) Birmingham City
+2056) Wednesday April 20
+2057) 3
+2058) 1
+2059) 292841
+2060) Aston Villa
+2061) Chelsea
+2062) Saturday October 16
+2063) 0
+2064) 0
+2065) 292880
+2066) Chelsea
+2067) Blackpool
+2068) Sunday September 19
+2069) 4
+2070) 0
+2071) 292884
+2072) Chelsea
+2073) West Bromwich Albion
+2074) Saturday August 14
+2075) 6
+2076) 0
+2077) 292887
+2078) Birmingham City
+2079) Chelsea
+2080) Saturday November 20
+2081) 1
+2082) 0
+2083) 292902
+2084) Chelsea
+2085) Stoke City
+2086) Saturday August 28
+2087) 2
+2088) 0
+2089) 292911
+2090) Chelsea
+2091) Tottenham Hotspur
+2092) Saturday April 30
+2093) 2
+2094) 1
+2095) 292912
+2096) Chelsea
+2097) Wolverhampton Wanderers
+2098) Saturday October 23
+2099) 2
+2100) 0
+2101) 292947
+2102) Chelsea
+2103) Newcastle United
+2104) Sunday May 15
+2105) 2
+2106) 2
+2107) 292948
+2108) West Bromwich Albion
+2109) Chelsea
+2110) Saturday April 16
+2111) 1
+2112) 3
+2113) 292953
+2114) Tottenham Hotspur
+2115) Chelsea
+2116) Sunday December 12
+2117) 1
+2118) 1
+2119) 292957
+2120) Manchester United
+2121) Chelsea
+2122) Sunday May 8
+2123) 2
+2124) 1
+2125) 292959
+2126) Everton
+2127) Chelsea
+2128) Sunday May 22
+2129) 1
+2130) 0
+2131) 292961
+2132) Wolverhampton Wanderers
+2133) Chelsea
+2134) Wednesday January 5
+2135) 1
+2136) 0
+2137) 292986
+2138) Chelsea
+2139) Blackburn Rovers
+2140) Saturday January 15
+2141) 2
+2142) 0
+2143) 292991
+2144) Blackpool
+2145) Chelsea
+2146) Monday March 7
+2147) 1
+2148) 3
+2149) 293002
+2150) Manchester City
+2151) Chelsea
+2152) Saturday September 25
+2153) 1
+2154) 0
+2155) 293014
+2156) Chelsea
+2157) Bolton Wanderers
+2158) Wednesday December 29
+2159) 1
+2160) 0
+2161) 293046
+2162) Chelsea
+2163) Sunderland
+2164) Sunday November 14
+2165) 0
+2166) 3
+2167) 293056
+2168) Blackburn Rovers
+2169) Chelsea
+2170) Saturday October 30
+2171) 1
+2172) 2
+2173) 293075
+2174) Bolton Wanderers
+2175) Chelsea
+2176) Monday January 24
+2177) 0
+2178) 4
+2179) 293080
+2180) Chelsea
+2181) Wigan Athletic
+2182) Saturday April 9
+2183) 1
+2184) 0
+2185) 293087
+2186) Chelsea
+2187) Manchester City
+2188) Sunday March 20
+2189) 2
+2190) 0
+2191) 293089
+2192) Stoke City
+2193) Chelsea
+2194) Saturday April 2
+2195) 1
+2196) 1
+2197) 293098
+2198) Arsenal
+2199) Chelsea
+2200) Monday December 27
+2201) 3
+2202) 1
+2203) 293100
+2204) Chelsea
+2205) Aston Villa
+2206) Sunday January 2
+2207) 3
+2208) 3
+2209) 293110
+2210) Chelsea
+2211) Manchester United
+2212) Tuesday March 1
+2213) 2
+2214) 1
+2215) 293136
+2216) Chelsea
+2217) Liverpool
+2218) Sunday February 6
+2219) 0
+2220) 1
+2221) 293146
+2222) West Ham United
+2223) Chelsea
+2224) Saturday September 11
+2225) 1
+2226) 3
+2227) 293148
+2228) Wigan Athletic
+2229) Chelsea
+2230) Saturday August 21
+2231) 0
+2232) 6
+2233) 293158
+2234) Liverpool
+2235) Chelsea
+2236) Sunday November 7
+2237) 2
+2238) 0
+2239) 293159
+2240) Chelsea
+2241) Fulham
+2242) Wednesday November 10
+2243) 1
+2244) 0
+2245) 293162
+2246) Sunderland
+2247) Chelsea
+2248) Tuesday February 1
+2249) 2
+2250) 4
+2251) 293174
+2252) Newcastle United
+2253) Chelsea
+2254) Sunday November 28
+2255) 1
+2256) 1
+2257) 293183
+2258) Chelsea
+2259) West Ham United
+2260) Saturday April 23
+2261) 3
+2262) 0
+2263) 293186
+2264) Chelsea
+2265) Everton
+2266) Saturday December 4
+2267) 1
+2268) 1
+2269) 293195
+2270) Chelsea
+2271) Arsenal
+2272) Sunday October 3
+2273) 2
+2274) 0
+2275) 293197
+2276) Fulham
+2277) Chelsea
+2278) Monday February 14
+2279) 0
+2280) 0
+2281) 317933
+2282) Sunderland
+2283) Chelsea
+2284) Saturday September 10
+2285) 1
+2286) 2
+2287) 317944
+2288) Chelsea
+2289) Blackburn Rovers
+2290) Sunday May 13
+2291) 2
+2292) 1
+2293) 317950
+2294) Bolton Wanderers
+2295) Chelsea
+2296) Sunday October 2
+2297) 1
+2298) 5
+2299) 317961
+2300) Liverpool
+2301) Chelsea
+2302) Tuesday May 8
+2303) 4
+2304) 1
+2305) 317963
+2306) Chelsea
+2307) Aston Villa
+2308) Saturday December 31
+2309) 1
+2310) 3
+2311) 317974
+2312) Blackburn Rovers
+2313) Chelsea
+2314) Saturday November 5
+2315) 0
+2316) 1
+2317) 317981
+2318) Chelsea
+2319) Bolton Wanderers
+2320) Saturday February 25
+2321) 3
+2322) 0
+2323) 317983
+2324) Chelsea
+2325) Norwich City
+2326) Saturday August 27
+2327) 3
+2328) 1
+2329) 317996
+2330) Chelsea
+2331) Everton
+2332) Saturday October 15
+2333) 3
+2334) 1
+2335) 317999
+2336) Norwich City
+2337) Chelsea
+2338) Saturday January 21
+2339) 0
+2340) 0
+2341) 318019
+2342) Chelsea
+2343) Stoke City
+2344) Saturday March 10
+2345) 1
+2346) 0
+2347) 318031
+2348) Newcastle United
+2349) Chelsea
+2350) Saturday December 3
+2351) 0
+2352) 3
+2353) 318049
+2354) Chelsea
+2355) Liverpool
+2356) Sunday November 20
+2357) 1
+2358) 2
+2359) 318050
+2360) Stoke City
+2361) Chelsea
+2362) Sunday August 14
+2363) 0
+2364) 0
+2365) 318061
+2366) Aston Villa
+2367) Chelsea
+2368) Saturday March 31
+2369) 2
+2370) 4
+2371) 318068
+2372) Wigan Athletic
+2373) Chelsea
+2374) Saturday December 17
+2375) 1
+2376) 1
+2377) 318077
+2378) Chelsea
+2379) Wolverhampton Wanderers
+2380) Saturday November 26
+2381) 3
+2382) 0
+2383) 318079
+2384) Fulham
+2385) Chelsea
+2386) Monday April 9
+2387) 1
+2388) 1
+2389) 318090
+2390) Chelsea
+2391) Newcastle United
+2392) Wednesday May 2
+2393) 0
+2394) 2
+2395) 318097
+2396) Chelsea
+2397) Swansea City
+2398) Saturday September 24
+2399) 4
+2400) 1
+2401) 318100
+2402) Chelsea
+2403) Manchester United
+2404) Sunday February 5
+2405) 3
+2406) 3
+2407) 318103
+2408) West Bromwich Albion
+2409) Chelsea
+2410) Saturday March 3
+2411) 1
+2412) 0
+2413) 318144
+2414) Chelsea
+2415) Tottenham Hotspur
+2416) Saturday March 24
+2417) 0
+2418) 0
+2419) 318155
+2420) Manchester City
+2421) Chelsea
+2422) Wednesday March 21
+2423) 2
+2424) 1
+2425) 318172
+2426) Manchester United
+2427) Chelsea
+2428) Sunday September 18
+2429) 3
+2430) 1
+2431) 318180
+2432) Chelsea
+2433) Wigan Athletic
+2434) Saturday April 7
+2435) 2
+2436) 1
+2437) 318183
+2438) Chelsea
+2439) Queens Park Rangers
+2440) Sunday April 29
+2441) 6
+2442) 1
+2443) 318185
+2444) Queens Park Rangers
+2445) Chelsea
+2446) Sunday October 23
+2447) 1
+2448) 0
+2449) 318206
+2450) Arsenal
+2451) Chelsea
+2452) Saturday April 21
+2453) 0
+2454) 0
+2455) 318214
+2456) Everton
+2457) Chelsea
+2458) Saturday February 11
+2459) 2
+2460) 0
+2461) 318220
+2462) Swansea City
+2463) Chelsea
+2464) Tuesday January 31
+2465) 1
+2466) 1
+2467) 318226
+2468) Chelsea
+2469) Manchester City
+2470) Monday December 12
+2471) 2
+2472) 1
+2473) 318238
+2474) Tottenham Hotspur
+2475) Chelsea
+2476) Thursday December 22
+2477) 1
+2478) 1
+2479) 318244
+2480) Chelsea
+2481) West Bromwich Albion
+2482) Saturday August 20
+2483) 2
+2484) 1
+2485) 318245
+2486) Wolverhampton Wanderers
+2487) Chelsea
+2488) Monday January 2
+2489) 1
+2490) 2
+2491) 318249
+2492) Chelsea
+2493) Fulham
+2494) Monday December 26
+2495) 1
+2496) 1
+2497) 318251
+2498) Chelsea
+2499) Arsenal
+2500) Saturday October 29
+2501) 3
+2502) 5
+2503) 318268
+2504) Chelsea
+2505) Sunderland
+2506) Saturday January 14
+2507) 1
+2508) 0
+2509) 345529
+2510) Chelsea
+2511) Everton
+2512) Sunday May 19
+2513) 2
+2514) 1
+2515) 345535
+2516) Aston Villa
+2517) Chelsea
+2518) Saturday May 11
+2519) 1
+2520) 2
+2521) 345545
+2522) Manchester United
+2523) Chelsea
+2524) Sunday May 5
+2525) 0
+2526) 1
+2527) 345556
+2528) Chelsea
+2529) Swansea City
+2530) Sunday April 28
+2531) 2
+2532) 0
+2533) 345561
+2534) Liverpool
+2535) Chelsea
+2536) Sunday April 21
+2537) 2
+2538) 2
+2539) 345573
+2540) Chelsea
+2541) Tottenham Hotspur
+2542) Wednesday May 8
+2543) 2
+2544) 2
+2545) 345580
+2546) Chelsea
+2547) Sunderland
+2548) Sunday April 7
+2549) 2
+2550) 1
+2551) 345599
+2552) Chelsea
+2553) West Ham United
+2554) Sunday March 17
+2555) 2
+2556) 0
+2557) 345600
+2558) Fulham
+2559) Chelsea
+2560) Wednesday April 17
+2561) 0
+2562) 3
+2563) 345614
+2564) Chelsea
+2565) West Bromwich Albion
+2566) Saturday March 2
+2567) 1
+2568) 0
+2569) 345617
+2570) Manchester City
+2571) Chelsea
+2572) Sunday February 24
+2573) 2
+2574) 0
+2575) 345631
+2576) Chelsea
+2577) Wigan Athletic
+2578) Saturday February 9
+2579) 4
+2580) 1
+2581) 345633
+2582) Newcastle United
+2583) Chelsea
+2584) Saturday February 2
+2585) 3
+2586) 2
+2587) 345648
+2588) Chelsea
+2589) Arsenal
+2590) Sunday January 20
+2591) 2
+2592) 1
+2593) 345656
+2594) Stoke City
+2595) Chelsea
+2596) Saturday January 12
+2597) 0
+2598) 4
+2599) 345669
+2600) Chelsea
+2601) Queens Park Rangers
+2602) Wednesday January 2
+2603) 0
+2604) 1
+2605) 345672
+2606) Everton
+2607) Chelsea
+2608) Sunday December 30
+2609) 1
+2610) 2
+2611) 345680
+2612) Norwich City
+2613) Chelsea
+2614) Wednesday December 26
+2615) 0
+2616) 1
+2617) 345689
+2618) Chelsea
+2619) Aston Villa
+2620) Sunday December 23
+2621) 8
+2622) 0
+2623) 345704
+2624) Sunderland
+2625) Chelsea
+2626) Saturday December 8
+2627) 1
+2628) 3
+2629) 345714
+2630) West Ham United
+2631) Chelsea
+2632) Saturday December 1
+2633) 3
+2634) 1
+2635) 345722
+2636) Chelsea
+2637) Fulham
+2638) Wednesday November 28
+2639) 0
+2640) 0
+2641) 345732
+2642) Chelsea
+2643) Manchester City
+2644) Sunday November 25
+2645) 0
+2646) 0
+2647) 345738
+2648) West Bromwich Albion
+2649) Chelsea
+2650) Saturday November 17
+2651) 2
+2652) 1
+2653) 345746
+2654) Chelsea
+2655) Liverpool
+2656) Sunday November 11
+2657) 1
+2658) 1
+2659) 345755
+2660) Swansea City
+2661) Chelsea
+2662) Saturday November 3
+2663) 1
+2664) 1
+2665) 345762
+2666) Chelsea
+2667) Manchester United
+2668) Sunday October 28
+2669) 2
+2670) 3
+2671) 345771
+2672) Tottenham Hotspur
+2673) Chelsea
+2674) Saturday October 20
+2675) 2
+2676) 4
+2677) 345781
+2678) Chelsea
+2679) Norwich City
+2680) Saturday October 6
+2681) 4
+2682) 1
+2683) 345785
+2684) Arsenal
+2685) Chelsea
+2686) Saturday September 29
+2687) 1
+2688) 2
+2689) 345799
+2690) Chelsea
+2691) Stoke City
+2692) Saturday September 22
+2693) 1
+2694) 0
+2695) 345801
+2696) Queens Park Rangers
+2697) Chelsea
+2698) Saturday September 15
+2699) 0
+2700) 0
+2701) 345821
+2702) Chelsea
+2703) Newcastle United
+2704) Saturday August 25
+2705) 2
+2706) 0
+2707) 345826
+2708) Wigan Athletic
+2709) Chelsea
+2710) Sunday August 19
+2711) 0
+2712) 2
+2713) 345846
+2714) Reading
+2715) Chelsea
+2716) Wednesday January 30
+2717) 2
+2718) 2
+2719) 345866
+2720) Chelsea
+2721) Reading
+2722) Wednesday August 22
+2723) 4
+2724) 2
+2725) 345879
+2726) Southampton
+2727) Chelsea
+2728) Saturday March 30
+2729) 2
+2730) 1
+2731) 345893
+2732) Chelsea
+2733) Southampton
+2734) Wednesday January 16
+2735) 2
+2736) 2
+2737) 367140
+2738) Cardiff City
+2739) Chelsea
+2740) Sunday May 11
+2741) 1
+2742) 2
+2743) 367151
+2744) Chelsea
+2745) Norwich City
+2746) Sunday May 4
+2747) 0
+2748) 0
+2749) 367158
+2750) Liverpool
+2751) Chelsea
+2752) Sunday April 27
+2753) 0
+2754) 2
+2755) 367171
+2756) Chelsea
+2757) Sunderland
+2758) Saturday April 19
+2759) 1
+2760) 2
+2761) 367175
+2762) Swansea City
+2763) Chelsea
+2764) Sunday April 13
+2765) 0
+2766) 1
+2767) 367188
+2768) Chelsea
+2769) Stoke City
+2770) Saturday April 5
+2771) 3
+2772) 0
+2773) 367201
+2774) Chelsea
+2775) Arsenal
+2776) Saturday March 22
+2777) 6
+2778) 0
+2779) 367212
+2780) Aston Villa
+2781) Chelsea
+2782) Saturday March 15
+2783) 1
+2784) 0
+2785) 367227
+2786) Chelsea
+2787) Tottenham Hotspur
+2788) Saturday March 8
+2789) 4
+2790) 0
+2791) 367230
+2792) Fulham
+2793) Chelsea
+2794) Saturday March 1
+2795) 1
+2796) 3
+2797) 367238
+2798) Chelsea
+2799) Everton
+2800) Saturday February 22
+2801) 1
+2802) 0
+2803) 367249
+2804) West Bromwich Albion
+2805) Chelsea
+2806) Tuesday February 11
+2807) 1
+2808) 1
+2809) 367261
+2810) Chelsea
+2811) Newcastle United
+2812) Saturday February 8
+2813) 3
+2814) 0
+2815) 367265
+2816) Manchester City
+2817) Chelsea
+2818) Monday February 3
+2819) 0
+2820) 1
+2821) 367274
+2822) Chelsea
+2823) West Ham United
+2824) Wednesday January 29
+2825) 0
+2826) 0
+2827) 367287
+2828) Chelsea
+2829) Manchester United
+2830) Sunday January 19
+2831) 3
+2832) 1
+2833) 367292
+2834) Hull City
+2835) Chelsea
+2836) Saturday January 11
+2837) 0
+2838) 2
+2839) 367302
+2840) Southampton
+2841) Chelsea
+2842) Wednesday January 1
+2843) 0
+2844) 3
+2845) 367311
+2846) Chelsea
+2847) Liverpool
+2848) Sunday December 29
+2849) 2
+2850) 1
+2851) 367325
+2852) Chelsea
+2853) Swansea City
+2854) Thursday December 26
+2855) 1
+2856) 0
+2857) 367329
+2858) Arsenal
+2859) Chelsea
+2860) Monday December 23
+2861) 0
+2862) 0
+2863) 367346
+2864) Stoke City
+2865) Chelsea
+2866) Saturday December 7
+2867) 3
+2868) 2
+2869) 367359
+2870) Sunderland
+2871) Chelsea
+2872) Wednesday December 4
+2873) 3
+2874) 4
+2875) 367367
+2876) Chelsea
+2877) Southampton
+2878) Sunday December 1
+2879) 3
+2880) 1
+2881) 367373
+2882) West Ham United
+2883) Chelsea
+2884) Saturday November 23
+2885) 0
+2886) 3
+2887) 367388
+2888) Chelsea
+2889) West Bromwich Albion
+2890) Saturday November 9
+2891) 2
+2892) 2
+2893) 367391
+2894) Newcastle United
+2895) Chelsea
+2896) Saturday November 2
+2897) 2
+2898) 0
+2899) 367403
+2900) Chelsea
+2901) Manchester City
+2902) Sunday October 27
+2903) 2
+2904) 1
+2905) 367408
+2906) Chelsea
+2907) Cardiff City
+2908) Saturday October 19
+2909) 4
+2910) 1
+2911) 367419
+2912) Norwich City
+2913) Chelsea
+2914) Sunday October 6
+2915) 1
+2916) 3
+2917) 367428
+2918) Tottenham Hotspur
+2919) Chelsea
+2920) Saturday September 28
+2921) 1
+2922) 1
+2923) 367437
+2924) Chelsea
+2925) Fulham
+2926) Saturday September 21
+2927) 2
+2928) 0
+2929) 367446
+2930) Everton
+2931) Chelsea
+2932) Saturday September 14
+2933) 1
+2934) 0
+2935) 367453
+2936) Chelsea
+2937) Aston Villa
+2938) Wednesday August 21
+2939) 2
+2940) 1
+2941) 367463
+2942) Manchester United
+2943) Chelsea
+2944) Monday August 26
+2945) 0
+2946) 0
+2947) 367475
+2948) Chelsea
+2949) Hull City
+2950) Sunday August 18
+2951) 2
+2952) 0
+2953) 369169
+2954) Crystal Palace
+2955) Chelsea
+2956) Saturday March 29
+2957) 1
+2958) 0
+2959) 369185
+2960) Chelsea
+2961) Crystal Palace
+2962) Saturday December 14
+2963) 2
+2964) 1
+2965) 395422
+2966) Chelsea
+2967) Sunderland
+2968) Sunday May 24
+2969) 3
+2970) 1
+2971) 395429
+2972) West Bromwich Albion
+2973) Chelsea
+2974) Monday May 18
+2975) 3
+2976) 0
+2977) 395437
+2978) Chelsea
+2979) Liverpool
+2980) Sunday May 10
+2981) 1
+2982) 1
+2983) 395447
+2984) Chelsea
+2985) Crystal Palace
+2986) Sunday May 3
+2987) 1
+2988) 0
+2989) 395455
+2990) Arsenal
+2991) Chelsea
+2992) Sunday April 26
+2993) 0
+2994) 0
+2995) 395465
+2996) Chelsea
+2997) Manchester United
+2998) Saturday April 18
+2999) 1
+3000) 0
+3001) 395474
+3002) Queens Park Rangers
+3003) Chelsea
+3004) Sunday April 12
+3005) 0
+3006) 1
+3007) 395488
+3008) Chelsea
+3009) Stoke City
+3010) Saturday April 4
+3011) 2
+3012) 1
+3013) 395492
+3014) Hull City
+3015) Chelsea
+3016) Sunday March 22
+3017) 2
+3018) 3
+3019) 395504
+3020) Chelsea
+3021) Southampton
+3022) Sunday March 15
+3023) 1
+3024) 1
+3025) 395513
+3026) West Ham United
+3027) Chelsea
+3028) Wednesday March 4
+3029) 0
+3030) 1
+3031) 395527
+3032) Chelsea
+3033) Burnley
+3034) Saturday February 21
+3035) 1
+3036) 1
+3037) 395535
+3038) Chelsea
+3039) Everton
+3040) Wednesday February 11
+3041) 1
+3042) 0
+3043) 395545
+3044) Aston Villa
+3045) Chelsea
+3046) Saturday February 7
+3047) 1
+3048) 2
+3049) 395556
+3050) Chelsea
+3051) Manchester City
+3052) Saturday January 31
+3053) 1
+3054) 1
+3055) 395563
+3056) Swansea City
+3057) Chelsea
+3058) Saturday January 17
+3059) 0
+3060) 5
+3061) 395574
+3062) Chelsea
+3063) Newcastle United
+3064) Saturday January 10
+3065) 2
+3066) 0
+3067) 395582
+3068) Tottenham Hotspur
+3069) Chelsea
+3070) Thursday January 1
+3071) 5
+3072) 3
+3073) 395591
+3074) Southampton
+3075) Chelsea
+3076) Sunday December 28
+3077) 1
+3078) 1
+3079) 395606
+3080) Chelsea
+3081) West Ham United
+3082) Friday December 26
+3083) 2
+3084) 0
+3085) 395609
+3086) Stoke City
+3087) Chelsea
+3088) Monday December 22
+3089) 0
+3090) 2
+3091) 395617
+3092) Chelsea
+3093) Hull City
+3094) Saturday December 13
+3095) 2
+3096) 0
+3097) 395627
+3098) Newcastle United
+3099) Chelsea
+3100) Saturday December 6
+3101) 2
+3102) 1
+3103) 395636
+3104) Chelsea
+3105) Tottenham Hotspur
+3106) Wednesday December 3
+3107) 3
+3108) 0
+3109) 395645
+3110) Sunderland
+3111) Chelsea
+3112) Saturday November 29
+3113) 0
+3114) 0
+3115) 395659
+3116) Chelsea
+3117) West Bromwich Albion
+3118) Saturday November 22
+3119) 2
+3120) 0
+3121) 395663
+3122) Liverpool
+3123) Chelsea
+3124) Saturday November 8
+3125) 1
+3126) 2
+3127) 395673
+3128) Chelsea
+3129) Queens Park Rangers
+3130) Saturday November 1
+3131) 2
+3132) 1
+3133) 395681
+3134) Manchester United
+3135) Chelsea
+3136) Sunday October 26
+3137) 1
+3138) 1
+3139) 395689
+3140) Crystal Palace
+3141) Chelsea
+3142) Saturday October 18
+3143) 1
+3144) 2
+3145) 395697
+3146) Chelsea
+3147) Arsenal
+3148) Sunday October 5
+3149) 2
+3150) 0
+3151) 395706
+3152) Chelsea
+3153) Aston Villa
+3154) Saturday September 27
+3155) 3
+3156) 0
+3157) 395716
+3158) Manchester City
+3159) Chelsea
+3160) Sunday September 21
+3161) 1
+3162) 1
+3163) 395730
+3164) Chelsea
+3165) Swansea City
+3166) Saturday September 13
+3167) 4
+3168) 2
+3169) 395733
+3170) Everton
+3171) Chelsea
+3172) Saturday August 30
+3173) 3
+3174) 6
+3175) 395752
+3176) Burnley
+3177) Chelsea
+3178) Monday August 18
+3179) 1
+3180) 3
+3181) 395771
+3182) Leicester City
+3183) Chelsea
+3184) Wednesday April 29
+3185) 1
+3186) 3
+3187) 395796
+3188) Chelsea
+3189) Leicester City
+3190) Saturday August 23
+3191) 2
+3192) 0
+3193) 422288
+3194) Chelsea
+3195) Leicester City
+3196) Sunday May 15
+3197) 1
+3198) 1
+3199) 422296
+3200) Sunderland
+3201) Chelsea
+3202) Saturday May 7
+3203) 3
+3204) 2
+3205) 422313
+3206) Chelsea
+3207) Tottenham Hotspur
+3208) Monday May 2
+3209) 2
+3210) 2
+3211) 422316
+3212) AFC Bournemouth
+3213) Chelsea
+3214) Saturday April 23
+3215) 1
+3216) 4
+3217) 422328
+3218) Chelsea
+3219) Manchester City
+3220) Saturday April 16
+3221) 0
+3222) 3
+3223) 422337
+3224) Swansea City
+3225) Chelsea
+3226) Saturday April 9
+3227) 1
+3228) 0
+3229) 422345
+3230) Aston Villa
+3231) Chelsea
+3232) Saturday April 2
+3233) 0
+3234) 4
+3235) 422364
+3236) Chelsea
+3237) West Ham United
+3238) Saturday March 19
+3239) 2
+3240) 2
+3241) 422365
+3242) Liverpool
+3243) Chelsea
+3244) Wednesday May 11
+3245) 1
+3246) 1
+3247) 422382
+3248) Chelsea
+3249) Stoke City
+3250) Saturday March 5
+3251) 1
+3252) 1
+3253) 422388
+3254) Norwich City
+3255) Chelsea
+3256) Tuesday March 1
+3257) 1
+3258) 2
+3259) 422398
+3260) Southampton
+3261) Chelsea
+3262) Saturday February 27
+3263) 1
+3264) 2
+3265) 422408
+3266) Chelsea
+3267) Newcastle United
+3268) Saturday February 13
+3269) 5
+3270) 1
+3271) 422419
+3272) Chelsea
+3273) Manchester United
+3274) Sunday February 7
+3275) 1
+3276) 1
+3277) 422430
+3278) Watford
+3279) Chelsea
+3280) Wednesday February 3
+3281) 0
+3282) 0
+3283) 422437
+3284) Arsenal
+3285) Chelsea
+3286) Sunday January 24
+3287) 0
+3288) 1
+3289) 422447
+3290) Chelsea
+3291) Everton
+3292) Saturday January 16
+3293) 3
+3294) 3
+3295) 422460
+3296) Chelsea
+3297) West Bromwich Albion
+3298) Wednesday January 13
+3299) 2
+3300) 2
+3301) 422467
+3302) Crystal Palace
+3303) Chelsea
+3304) Sunday January 3
+3305) 0
+3306) 3
+3307) 422477
+3308) Manchester United
+3309) Chelsea
+3310) Monday December 28
+3311) 0
+3312) 0
+3313) 422492
+3314) Chelsea
+3315) Watford
+3316) Saturday December 26
+3317) 2
+3318) 2
+3319) 422502
+3320) Chelsea
+3321) Sunderland
+3322) Saturday December 19
+3323) 3
+3324) 1
+3325) 422506
+3326) Leicester City
+3327) Chelsea
+3328) Monday December 14
+3329) 2
+3330) 1
+3331) 422516
+3332) Chelsea
+3333) AFC Bournemouth
+3334) Saturday December 5
+3335) 0
+3336) 1
+3337) 422526
+3338) Tottenham Hotspur
+3339) Chelsea
+3340) Sunday November 29
+3341) 0
+3342) 0
+3343) 422541
+3344) Chelsea
+3345) Norwich City
+3346) Saturday November 21
+3347) 1
+3348) 0
+3349) 422545
+3350) Stoke City
+3351) Chelsea
+3352) Saturday November 7
+3353) 1
+3354) 0
+3355) 422559
+3356) Chelsea
+3357) Liverpool
+3358) Saturday October 31
+3359) 1
+3360) 3
+3361) 422565
+3362) West Ham United
+3363) Chelsea
+3364) Saturday October 24
+3365) 2
+3366) 1
+3367) 422576
+3368) Chelsea
+3369) Aston Villa
+3370) Saturday October 17
+3371) 2
+3372) 0
+3373) 422589
+3374) Chelsea
+3375) Southampton
+3376) Saturday October 3
+3377) 1
+3378) 3
+3379) 422598
+3380) Newcastle United
+3381) Chelsea
+3382) Saturday September 26
+3383) 2
+3384) 2
+3385) 422605
+3386) Chelsea
+3387) Arsenal
+3388) Saturday September 19
+3389) 2
+3390) 0
+3391) 422617
+3392) Everton
+3393) Chelsea
+3394) Saturday September 12
+3395) 3
+3396) 1
+3397) 422626
+3398) Chelsea
+3399) Crystal Palace
+3400) Saturday August 29
+3401) 1
+3402) 2
+3403) 422637
+3404) West Bromwich Albion
+3405) Chelsea
+3406) Sunday August 23
+3407) 2
+3408) 3
+3409) 422647
+3410) Manchester City
+3411) Chelsea
+3412) Sunday August 16
+3413) 3
+3414) 0
+3415) 422661
+3416) Chelsea
+3417) Swansea City
+3418) Saturday August 8
+3419) 2
+3420) 2
+3421) 450634
+3422) Chelsea
+3423) Sunderland
+3424) Sunday May 21
+3425) 5
+3426) 1
+3427) 450640
+3428) West Bromwich Albion
+3429) Chelsea
+3430) Friday May 12
+3431) 0
+3432) 1
+3433) 450651
+3434) Chelsea
+3435) Middlesbrough
+3436) Monday May 8
+3437) 3
+3438) 0
+3439) 450661
+3440) Everton
+3441) Chelsea
+3442) Sunday April 30
+3443) 0
+3444) 3
+3445) 450672
+3446) Chelsea
+3447) Southampton
+3448) Tuesday April 25
+3449) 4
+3450) 2
+3451) 450681
+3452) Manchester United
+3453) Chelsea
+3454) Sunday April 16
+3455) 2
+3456) 0
+3457) 450690
+3458) AFC Bournemouth
+3459) Chelsea
+3460) Saturday April 8
+3461) 1
+3462) 3
+3463) 450700
+3464) Chelsea
+3465) Manchester City
+3466) Wednesday April 5
+3467) 2
+3468) 1
+3469) 450709
+3470) Chelsea
+3471) Crystal Palace
+3472) Saturday April 1
+3473) 1
+3474) 2
+3475) 450720
+3476) Stoke City
+3477) Chelsea
+3478) Saturday March 18
+3479) 1
+3480) 2
+3481) 450735
+3482) Chelsea
+3483) Watford
+3484) Monday May 15
+3485) 4
+3486) 3
+3487) 450741
+3488) West Ham United
+3489) Chelsea
+3490) Monday March 6
+3491) 1
+3492) 2
+3493) 450756
+3494) Chelsea
+3495) Swansea City
+3496) Saturday February 25
+3497) 3
+3498) 1
+3499) 450758
+3500) Burnley
+3501) Chelsea
+3502) Sunday February 12
+3503) 1
+3504) 1
+3505) 450768
+3506) Chelsea
+3507) Arsenal
+3508) Saturday February 4
+3509) 3
+3510) 1
+3511) 450778
+3512) Liverpool
+3513) Chelsea
+3514) Tuesday January 31
+3515) 1
+3516) 1
+3517) 450790
+3518) Chelsea
+3519) Hull City
+3520) Sunday January 22
+3521) 2
+3522) 0
+3523) 450800
+3524) Leicester City
+3525) Chelsea
+3526) Saturday January 14
+3527) 0
+3528) 3
+3529) 450810
+3530) Tottenham Hotspur
+3531) Chelsea
+3532) Wednesday January 4
+3533) 2
+3534) 0
+3535) 450823
+3536) Chelsea
+3537) Stoke City
+3538) Saturday December 31
+3539) 4
+3540) 2
+3541) 450828
+3542) Chelsea
+3543) AFC Bournemouth
+3544) Monday December 26
+3545) 3
+3546) 0
+3547) 450840
+3548) Crystal Palace
+3549) Chelsea
+3550) Saturday December 17
+3551) 0
+3552) 1
+3553) 450855
+3554) Sunderland
+3555) Chelsea
+3556) Wednesday December 14
+3557) 0
+3558) 1
+3559) 450866
+3560) Chelsea
+3561) West Bromwich Albion
+3562) Sunday December 11
+3563) 1
+3564) 0
+3565) 450870
+3566) Manchester City
+3567) Chelsea
+3568) Saturday December 3
+3569) 1
+3570) 3
+3571) 450885
+3572) Chelsea
+3573) Tottenham Hotspur
+3574) Saturday November 26
+3575) 2
+3576) 1
+3577) 450891
+3578) Middlesbrough
+3579) Chelsea
+3580) Sunday November 20
+3581) 0
+3582) 1
+3583) 450899
+3584) Chelsea
+3585) Everton
+3586) Saturday November 5
+3587) 5
+3588) 0
+3589) 450911
+3590) Southampton
+3591) Chelsea
+3592) Sunday October 30
+3593) 0
+3594) 2
+3595) 450920
+3596) Chelsea
+3597) Manchester United
+3598) Sunday October 23
+3599) 4
+3600) 0
+3601) 450931
+3602) Chelsea
+3603) Leicester City
+3604) Saturday October 15
+3605) 3
+3606) 0
+3607) 450940
+3608) Hull City
+3609) Chelsea
+3610) Saturday October 1
+3611) 0
+3612) 2
+3613) 450948
+3614) Arsenal
+3615) Chelsea
+3616) Saturday September 24
+3617) 3
+3618) 0
+3619) 450961
+3620) Chelsea
+3621) Liverpool
+3622) Friday September 16
+3623) 1
+3624) 2
+3625) 450968
+3626) Swansea City
+3627) Chelsea
+3628) Sunday September 11
+3629) 2
+3630) 2
+3631) 450980
+3632) Chelsea
+3633) Burnley
+3634) Saturday August 27
+3635) 3
+3636) 0
+3637) 450991
+3638) Watford
+3639) Chelsea
+3640) Saturday August 20
+3641) 1
+3642) 2
+3643) 451007
+3644) Chelsea
+3645) West Ham United
+3646) Monday August 15
+3647) 2
+3648) 1
+3649) 480529
+3650) Newcastle United
+3651) Chelsea
+3652) Sunday May 13
+3653) 3
+3654) 0
+3655) 480539
+3656) Chelsea
+3657) Liverpool
+3658) Sunday May 6
+3659) 1
+3660) 0
+3661) 480549
+3662) Swansea City
+3663) Chelsea
+3664) Saturday April 28
+3665) 0
+3666) 1
+3667) 480558
+3668) Chelsea
+3669) Huddersfield Town
+3670) Wednesday May 9
+3671) 1
+3672) 1
+3673) 480569
+3674) Southampton
+3675) Chelsea
+3676) Saturday April 14
+3677) 2
+3678) 3
+3679) 480585
+3680) Chelsea
+3681) West Ham United
+3682) Sunday April 8
+3683) 1
+3684) 1
+3685) 480594
+3686) Chelsea
+3687) Tottenham Hotspur
+3688) Sunday April 1
+3689) 1
+3690) 3
+3691) 480598
+3692) Burnley
+3693) Chelsea
+3694) Thursday April 19
+3695) 1
+3696) 2
+3697) 480608
+3698) Chelsea
+3699) Crystal Palace
+3700) Saturday March 10
+3701) 2
+3702) 1
+3703) 480618
+3704) Manchester City
+3705) Chelsea
+3706) Sunday March 4
+3707) 1
+3708) 0
+3709) 480626
+3710) Manchester United
+3711) Chelsea
+3712) Sunday February 25
+3713) 2
+3714) 1
+3715) 480645
+3716) Chelsea
+3717) West Bromwich Albion
+3718) Monday February 12
+3719) 3
+3720) 0
+3721) 480646
+3722) Watford
+3723) Chelsea
+3724) Monday February 5
+3725) 4
+3726) 1
+3727) 480659
+3728) Chelsea
+3729) AFC Bournemouth
+3730) Wednesday January 31
+3731) 0
+3732) 3
+3733) 480667
+3734) Brighton & Hove Albion
+3735) Chelsea
+3736) Saturday January 20
+3737) 0
+3738) 4
+3739) 480680
+3740) Chelsea
+3741) Leicester City
+3742) Saturday January 13
+3743) 0
+3744) 0
+3745) 480687
+3746) Arsenal
+3747) Chelsea
+3748) Wednesday January 3
+3749) 2
+3750) 2
+3751) 480703
+3752) Chelsea
+3753) Stoke City
+3754) Saturday December 30
+3755) 5
+3756) 0
+3757) 480707
+3758) Chelsea
+3759) Brighton & Hove Albion
+3760) Tuesday December 26
+3761) 2
+3762) 0
+3763) 480717
+3764) Everton
+3765) Chelsea
+3766) Saturday December 23
+3767) 0
+3768) 0
+3769) 480732
+3770) Chelsea
+3771) Southampton
+3772) Saturday December 16
+3773) 1
+3774) 0
+3775) 480743
+3776) Huddersfield Town
+3777) Chelsea
+3778) Tuesday December 12
+3779) 1
+3780) 3
+3781) 480749
+3782) West Ham United
+3783) Chelsea
+3784) Saturday December 9
+3785) 1
+3786) 0
+3787) 480761
+3788) Chelsea
+3789) Newcastle United
+3790) Saturday December 2
+3791) 3
+3792) 1
+3793) 480768
+3794) Chelsea
+3795) Swansea City
+3796) Wednesday November 29
+3797) 1
+3798) 0
+3799) 480779
+3800) Liverpool
+3801) Chelsea
+3802) Saturday November 25
+3803) 1
+3804) 1
+3805) 480786
+3806) West Bromwich Albion
+3807) Chelsea
+3808) Saturday November 18
+3809) 0
+3810) 4
+3811) 480803
+3812) Chelsea
+3813) Manchester United
+3814) Sunday November 5
+3815) 1
+3816) 0
+3817) 480806
+3818) AFC Bournemouth
+3819) Chelsea
+3820) Saturday October 28
+3821) 0
+3822) 1
+3823) 480824
+3824) Chelsea
+3825) Watford
+3826) Saturday October 21
+3827) 4
+3828) 2
+3829) 480828
+3830) Crystal Palace
+3831) Chelsea
+3832) Saturday October 14
+3833) 2
+3834) 1
+3835) 480841
+3836) Chelsea
+3837) Manchester City
+3838) Saturday September 30
+3839) 0
+3840) 1
+3841) 480847
+3842) Stoke City
+3843) Chelsea
+3844) Saturday September 23
+3845) 0
+3846) 4
+3847) 480856
+3848) Chelsea
+3849) Arsenal
+3850) Sunday September 17
+3851) 0
+3852) 0
+3853) 480867
+3854) Leicester City
+3855) Chelsea
+3856) Saturday September 9
+3857) 1
+3858) 2
+3859) 480879
+3860) Chelsea
+3861) Everton
+3862) Sunday August 27
+3863) 2
+3864) 0
+3865) 480888
+3866) Tottenham Hotspur
+3867) Chelsea
+3868) Sunday August 20
+3869) 1
+3870) 2
+3871) 480897
+3872) Chelsea
+3873) Burnley
+3874) Saturday August 12
+3875) 2
+3876) 3
+3877) 513463
+3878) Leicester City
+3879) Chelsea
+3880) Sunday May 12
+3881) 0
+3882) 0
+3883) 513479
+3884) Chelsea
+3885) Watford
+3886) Sunday May 5
+3887) 3
+3888) 0
+3889) 513483
+3890) Manchester United
+3891) Chelsea
+3892) Sunday April 28
+3893) 1
+3894) 1
+3895) 513491
+3896) Chelsea
+3897) Burnley
+3898) Monday April 22
+3899) 2
+3900) 2
+3901) 513503
+3902) Liverpool
+3903) Chelsea
+3904) Sunday April 14
+3905) 2
+3906) 0
+3907) 513519
+3908) Chelsea
+3909) West Ham United
+3910) Monday April 8
+3911) 2
+3912) 0
+3913) 513521
+3914) Cardiff City
+3915) Chelsea
+3916) Sunday March 31
+3917) 1
+3918) 2
+3919) 513532
+3920) Everton
+3921) Chelsea
+3922) Sunday March 17
+3923) 2
+3924) 0
+3925) 513549
+3926) Chelsea
+3927) Wolverhampton Wanderers
+3928) Sunday March 10
+3929) 1
+3930) 1
+3931) 513552
+3932) Fulham
+3933) Chelsea
+3934) Sunday March 3
+3935) 1
+3936) 2
+3937) 513564
+3938) Chelsea
+3939) Tottenham Hotspur
+3940) Wednesday February 27
+3941) 2
+3942) 0
+3943) 513570
+3944) Chelsea
+3945) Brighton & Hove Albion
+3946) Wednesday April 3
+3947) 3
+3948) 0
+3949) 513584
+3950) Manchester City
+3951) Chelsea
+3952) Sunday February 10
+3953) 6
+3954) 0
+3955) 513593
+3956) Chelsea
+3957) Huddersfield Town
+3958) Saturday February 2
+3959) 5
+3960) 0
+3961) 513607
+3962) AFC Bournemouth
+3963) Chelsea
+3964) Wednesday January 30
+3965) 4
+3966) 0
+3967) 513613
+3968) Arsenal
+3969) Chelsea
+3970) Saturday January 19
+3971) 2
+3972) 0
+3973) 513626
+3974) Chelsea
+3975) Newcastle United
+3976) Saturday January 12
+3977) 2
+3978) 1
+3979) 513637
+3980) Chelsea
+3981) Southampton
+3982) Wednesday January 2
+3983) 0
+3984) 0
+3985) 513643
+3986) Crystal Palace
+3987) Chelsea
+3988) Sunday December 30
+3989) 0
+3990) 1
+3991) 513653
+3992) Watford
+3993) Chelsea
+3994) Wednesday December 26
+3995) 1
+3996) 2
+3997) 513664
+3998) Chelsea
+3999) Leicester City
+4000) Saturday December 22
+4001) 0
+4002) 1
+4003) 513674
+4004) Brighton & Hove Albion
+4005) Chelsea
+4006) Sunday December 16
+4007) 1
+4008) 2
+4009) 513685
+4010) Chelsea
+4011) Manchester City
+4012) Saturday December 8
+4013) 2
+4014) 0
+4015) 513694
+4016) Wolverhampton Wanderers
+4017) Chelsea
+4018) Wednesday December 5
+4019) 2
+4020) 1
+4021) 513704
+4022) Chelsea
+4023) Fulham
+4024) Sunday December 2
+4025) 2
+4026) 0
+4027) 513712
+4028) Tottenham Hotspur
+4029) Chelsea
+4030) Saturday November 24
+4031) 3
+4032) 1
+4033) 513723
+4034) Chelsea
+4035) Everton
+4036) Sunday November 11
+4037) 0
+4038) 0
+4039) 513732
+4040) Chelsea
+4041) Crystal Palace
+4042) Sunday November 4
+4043) 3
+4044) 1
+4045) 513743
+4046) Burnley
+4047) Chelsea
+4048) Sunday October 28
+4049) 0
+4050) 4
+4051) 513756
+4052) Chelsea
+4053) Manchester United
+4054) Saturday October 20
+4055) 2
+4056) 2
+4057) 513763
+4058) Southampton
+4059) Chelsea
+4060) Sunday October 7
+4061) 0
+4062) 3
+4063) 513775
+4064) Chelsea
+4065) Liverpool
+4066) Saturday September 29
+4067) 1
+4068) 1
+4069) 513781
+4070) West Ham United
+4071) Chelsea
+4072) Sunday September 23
+4073) 0
+4074) 0
+4075) 513793
+4076) Chelsea
+4077) Cardiff City
+4078) Saturday September 15
+4079) 4
+4080) 1
+4081) 513801
+4082) Chelsea
+4083) AFC Bournemouth
+4084) Saturday September 1
+4085) 2
+4086) 0
+4087) 513813
+4088) Newcastle United
+4089) Chelsea
+4090) Sunday August 26
+4091) 1
+4092) 2
+4093) 513820
+4094) Chelsea
+4095) Arsenal
+4096) Saturday August 18
+4097) 3
+4098) 2
+4099) 513833
+4100) Huddersfield Town
+4101) Chelsea
+4102) Saturday August 11
+4103) 0
+4104) 3
+4105) 541474
+4106) Chelsea
+4107) Wolverhampton Wanderers
+4108) Sunday July 26
+4109) 2
+4110) 0
+4111) 541477
+4112) Liverpool
+4113) Chelsea
+4114) Wednesday July 22
+4115) 5
+4116) 3
+4117) 541490
+4118) Chelsea
+4119) Norwich City
+4120) Tuesday July 14
+4121) 1
+4122) 0
+4123) 541497
+4124) Sheffield United
+4125) Chelsea
+4126) Saturday July 11
+4127) 3
+4128) 0
+4129) 541506
+4130) Crystal Palace
+4131) Chelsea
+4132) Tuesday July 7
+4133) 2
+4134) 3
+4135) 541523
+4136) Chelsea
+4137) Watford
+4138) Saturday July 4
+4139) 3
+4140) 0
+4141) 541526
+4142) West Ham United
+4143) Chelsea
+4144) Wednesday July 1
+4145) 3
+4146) 2
+4147) 541541
+4148) Chelsea
+4149) Manchester City
+4150) Thursday June 25
+4151) 2
+4152) 1
+4153) 541547
+4154) Aston Villa
+4155) Chelsea
+4156) Sunday June 21
+4157) 1
+4158) 2
+4159) 541558
+4160) Chelsea
+4161) Everton
+4162) Sunday March 8
+4163) 4
+4164) 0
+4165) 541567
+4166) AFC Bournemouth
+4167) Chelsea
+4168) Saturday February 29
+4169) 2
+4170) 2
+4171) 541582
+4172) Chelsea
+4173) Tottenham Hotspur
+4174) Saturday February 22
+4175) 2
+4176) 1
+4177) 541590
+4178) Chelsea
+4179) Manchester United
+4180) Monday February 17
+4181) 0
+4182) 2
+4183) 541598
+4184) Leicester City
+4185) Chelsea
+4186) Saturday February 1
+4187) 2
+4188) 2
+4189) 541606
+4190) Chelsea
+4191) Arsenal
+4192) Tuesday January 21
+4193) 2
+4194) 2
+4195) 541617
+4196) Newcastle United
+4197) Chelsea
+4198) Saturday January 18
+4199) 1
+4200) 0
+4201) 541627
+4202) Chelsea
+4203) Burnley
+4204) Saturday January 11
+4205) 3
+4206) 0
+4207) 541637
+4208) Brighton & Hove Albion
+4209) Chelsea
+4210) Wednesday January 1
+4211) 1
+4212) 1
+4213) 541647
+4214) Arsenal
+4215) Chelsea
+4216) Sunday December 29
+4217) 1
+4218) 2
+4219) 541662
+4220) Chelsea
+4221) Southampton
+4222) Thursday December 26
+4223) 0
+4224) 2
+4225) 541667
+4226) Tottenham Hotspur
+4227) Chelsea
+4228) Sunday December 22
+4229) 0
+4230) 2
+4231) 541676
+4232) Chelsea
+4233) AFC Bournemouth
+4234) Saturday December 14
+4235) 0
+4236) 1
+4237) 541687
+4238) Everton
+4239) Chelsea
+4240) Saturday December 7
+4241) 3
+4242) 1
+4243) 541697
+4244) Chelsea
+4245) Aston Villa
+4246) Wednesday December 4
+4247) 2
+4248) 1
+4249) 541714
+4250) Chelsea
+4251) West Ham United
+4252) Saturday November 30
+4253) 0
+4254) 1
+4255) 541716
+4256) Manchester City
+4257) Chelsea
+4258) Saturday November 23
+4259) 2
+4260) 1
+4261) 541729
+4262) Chelsea
+4263) Crystal Palace
+4264) Saturday November 9
+4265) 2
+4266) 0
+4267) 541736
+4268) Watford
+4269) Chelsea
+4270) Saturday November 2
+4271) 1
+4272) 2
+4273) 541747
+4274) Burnley
+4275) Chelsea
+4276) Saturday October 26
+4277) 2
+4278) 4
+4279) 541760
+4280) Chelsea
+4281) Newcastle United
+4282) Saturday October 19
+4283) 1
+4284) 0
+4285) 541767
+4286) Southampton
+4287) Chelsea
+4288) Sunday October 6
+4289) 1
+4290) 4
+4291) 541776
+4292) Chelsea
+4293) Brighton & Hove Albion
+4294) Saturday September 28
+4295) 2
+4296) 0
+4297) 541788
+4298) Chelsea
+4299) Liverpool
+4300) Sunday September 22
+4301) 1
+4302) 2
+4303) 541797
+4304) Wolverhampton Wanderers
+4305) Chelsea
+4306) Saturday September 14
+4307) 2
+4308) 5
+4309) 541811
+4310) Chelsea
+4311) Sheffield United
+4312) Saturday August 31
+4313) 2
+4314) 2
+4315) 541817
+4316) Norwich City
+4317) Chelsea
+4318) Saturday August 24
+4319) 2
+4320) 3
+4321) 541828
+4322) Chelsea
+4323) Leicester City
+4324) Sunday August 18
+4325) 1
+4326) 1
+4327) 541835
+4328) Manchester United
+4329) Chelsea
+4330) Sunday August 11
+4331) 4
+4332) 0
+4333) 578283
+4334) Aston Villa
+4335) Chelsea
+4336) Sunday May 23
+4337) 2
+4338) 1
+4339) 578295
+4340) Chelsea
+4341) Leicester City
+4342) Tuesday May 18
+4343) 2
+4344) 1
+4345) 578302
+4346) Chelsea
+4347) Arsenal
+4348) Wednesday May 12
+4349) 0
+4350) 1
+4351) 578313
+4352) Manchester City
+4353) Chelsea
+4354) Saturday May 8
+4355) 1
+4356) 2
+4357) 578323
+4358) Chelsea
+4359) Fulham
+4360) Saturday May 1
+4361) 2
+4362) 0
+4363) 578333
+4364) West Ham United
+4365) Chelsea
+4366) Saturday April 24
+4367) 0
+4368) 1
+4369) 578341
+4370) Chelsea
+4371) Brighton & Hove Albion
+4372) Tuesday April 20
+4373) 0
+4374) 0
+4375) 578353
+4376) Crystal Palace
+4377) Chelsea
+4378) Saturday April 10
+4379) 1
+4380) 4
+4381) 578369
+4382) Chelsea
+4383) West Bromwich Albion
+4384) Saturday April 3
+4385) 2
+4386) 5
+4387) 578373
+4388) Liverpool
+4389) Chelsea
+4390) Thursday March 4
+4391) 0
+4392) 1
+4393) 578384
+4394) Leeds United
+4395) Chelsea
+4396) Saturday March 13
+4397) 0
+4398) 0
+4399) 578393
+4400) Chelsea
+4401) Everton
+4402) Monday March 8
+4403) 2
+4404) 0
+4405) 578407
+4406) Chelsea
+4407) Manchester United
+4408) Sunday February 28
+4409) 0
+4410) 0
+4411) 578411
+4412) Southampton
+4413) Chelsea
+4414) Saturday February 20
+4415) 1
+4416) 1
+4417) 578427
+4418) Chelsea
+4419) Newcastle United
+4420) Monday February 15
+4421) 2
+4422) 0
+4423) 578433
+4424) Sheffield United
+4425) Chelsea
+4426) Sunday February 7
+4427) 1
+4428) 2
+4429) 578442
+4430) Tottenham Hotspur
+4431) Chelsea
+4432) Thursday February 4
+4433) 0
+4434) 1
+4435) 578452
+4436) Chelsea
+4437) Burnley
+4438) Sunday January 31
+4439) 2
+4440) 0
+4441) 578465
+4442) Chelsea
+4443) Wolverhampton Wanderers
+4444) Wednesday January 27
+4445) 0
+4446) 0
+4447) 578473
+4448) Fulham
+4449) Chelsea
+4450) Saturday January 16
+4451) 0
+4452) 1
+4453) 578483
+4454) Leicester City
+4455) Chelsea
+4456) Tuesday January 19
+4457) 2
+4458) 0
+4459) 578497
+4460) Chelsea
+4461) Manchester City
+4462) Sunday January 3
+4463) 1
+4464) 3
+4465) 578502
+4466) Chelsea
+4467) Aston Villa
+4468) Monday December 28
+4469) 1
+4470) 1
+4471) 578513
+4472) Arsenal
+4473) Chelsea
+4474) Saturday December 26
+4475) 3
+4476) 1
+4477) 578529
+4478) Chelsea
+4479) West Ham United
+4480) Monday December 21
+4481) 3
+4482) 0
+4483) 578535
+4484) Wolverhampton Wanderers
+4485) Chelsea
+4486) Tuesday December 15
+4487) 2
+4488) 1
+4489) 578544
+4490) Everton
+4491) Chelsea
+4492) Saturday December 12
+4493) 1
+4494) 0
+4495) 578555
+4496) Chelsea
+4497) Leeds United
+4498) Saturday December 5
+4499) 3
+4500) 1
+4501) 578569
+4502) Chelsea
+4503) Tottenham Hotspur
+4504) Sunday November 29
+4505) 0
+4506) 0
+4507) 578573
+4508) Newcastle United
+4509) Chelsea
+4510) Saturday November 21
+4511) 0
+4512) 2
+4513) 578588
+4514) Chelsea
+4515) Sheffield United
+4516) Saturday November 7
+4517) 4
+4518) 1
+4519) 578593
+4520) Burnley
+4521) Chelsea
+4522) Saturday October 31
+4523) 0
+4524) 3
+4525) 578601
+4526) Manchester United
+4527) Chelsea
+4528) Saturday October 24
+4529) 0
+4530) 0
+4531) 578618
+4532) Chelsea
+4533) Southampton
+4534) Saturday October 17
+4535) 3
+4536) 3
+4537) 578623
+4538) Chelsea
+4539) Crystal Palace
+4540) Saturday October 3
+4541) 4
+4542) 0
+4543) 578633
+4544) West Bromwich Albion
+4545) Chelsea
+4546) Saturday September 26
+4547) 3
+4548) 3
+4549) 578645
+4550) Chelsea
+4551) Liverpool
+4552) Sunday September 20
+4553) 0
+4554) 2
+4555) 578651
+4556) Brighton & Hove Albion
+4557) Chelsea
+4558) Monday September 14
+4559) 1
+4560) 3
+4561) 606021
+4562) Arsenal
+4563) Chelsea
+4564) Sunday August 22
+4565) 0
+4566) 2
+4567) 606032
+4568) Chelsea
+4569) Crystal Palace
+4570) Saturday August 14
+4571) 3
+4572) 0

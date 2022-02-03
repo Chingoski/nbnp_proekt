@@ -1,0 +1,11 @@
+Врати ги сите настани за некој натпревар (најди некој натпревар)  -> sort events:game:422444 GET events:*->event
+
+Врати ги сите податоци за победникот на некоја сезона -> ZRANGE table:2016 0 0 -> HGETALL tables:CHE:2016
+
+Врати го бројот на жолти картони од некој тим -> HGETALL yellow_cards:Chelsea
+
+Врати го тимот со највеќе освоени титули (1ви места) -> zrange tables:first-places 0 0 REV WITHSCORES
+
+Врати ги тимовите со топ 3 завршници -> zrange tables:top-three-finishes 0 -1 REV WITHSCORES
+
+Врати ги сите натпревари за еден тим -> sort all-matches:Chelsea GET # GET matches:#*->home_team GET matches:#*->away_team GET matches:#*->date GET matches:#*->home_score GET matches:#*->away_score

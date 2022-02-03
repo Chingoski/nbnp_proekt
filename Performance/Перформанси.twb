@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20213.21.1018.0949                               -->
+<workbook original-version='18.1' source-build='2021.3.3 (20213.21.1018.0949)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Sheet1 (Data)' inline='true' name='federated.1wsyfxn1ih2t2w1b76am40wi4u10' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Data' name='excel-direct.17wzia80c03nh813mvtt312t586p'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/ching/Downloads/Data.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.17wzia80c03nh813mvtt312t586p' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:B7:no:A1:B7:0' header='yes' outcome='6'>
+            <column datatype='string' name='Name' ordinal='0' />
+            <column datatype='real' name='Time' ordinal='1' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.17wzia80c03nh813mvtt312t586p' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:B7:no:A1:B7:0' header='yes' outcome='6'>
+            <column datatype='string' name='Name' ordinal='0' />
+            <column datatype='real' name='Time' ordinal='1' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:B7:no:A1:B7:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Name]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Name</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_C06811D58F644505A5D16B0A2B5DEEF1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Time</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Time]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Time</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_C06811D58F644505A5D16B0A2B5DEEF1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Name]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;Query 1&quot;' value='Прашалник 1' />
+          <alias key='&quot;Query 2&quot;' value='Прашалник 2' />
+          <alias key='&quot;Query 3&quot;' value='Прашалник 3' />
+          <alias key='&quot;Query 4&quot;' value='Прашалник 4' />
+          <alias key='&quot;Query 5&quot;' value='Прашалник 5' />
+          <alias key='&quot;Query 6&quot;' value='Прашалник 6' />
+        </aliases>
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='Sheet1' datatype='table' name='[__tableau_internal_object_id__].[Sheet1_C06811D58F644505A5D16B0A2B5DEEF1]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Sheet1' id='Sheet1_C06811D58F644505A5D16B0A2B5DEEF1'>
+            <properties context=''>
+              <relation connection='excel-direct.17wzia80c03nh813mvtt312t586p' name='Sheet1' table='[Sheet1$]' type='table'>
+                <columns gridOrigin='A1:B7:no:A1:B7:0' header='yes' outcome='6'>
+                  <column datatype='string' name='Name' ordinal='0' />
+                  <column datatype='real' name='Time' ordinal='1' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontsize='24'>Брзина на прaшалници</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1 (Data)' name='federated.1wsyfxn1ih2t2w1b76am40wi4u10' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1wsyfxn1ih2t2w1b76am40wi4u10'>
+            <column datatype='string' name='[Name]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Query 1&quot;' value='Прашалник 1' />
+                <alias key='&quot;Query 2&quot;' value='Прашалник 2' />
+                <alias key='&quot;Query 3&quot;' value='Прашалник 3' />
+                <alias key='&quot;Query 4&quot;' value='Прашалник 4' />
+                <alias key='&quot;Query 5&quot;' value='Прашалник 5' />
+                <alias key='&quot;Query 6&quot;' value='Прашалник 6' />
+              </aliases>
+            </column>
+            <column datatype='real' name='[Time]' role='measure' type='quantitative' />
+            <column-instance column='[Name]' derivation='None' name='[none:Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Time]' derivation='Sum' name='[sum:Time:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1wsyfxn1ih2t2w1b76am40wi4u10].[sum:Time:qk]' scope='rows' value='Време (ms)' />
+            <format attr='tick-color' scope='cols' value='#00000000' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='tick-color' scope='rows' value='#00000000' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.1wsyfxn1ih2t2w1b76am40wi4u10].[sum:Time:qk]' value='n#,##0.00;-#,##0.00' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='border-width' data-class='total' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-format' field='[federated.1wsyfxn1ih2t2w1b76am40wi4u10].[sum:Time:qk]' value='n#,##0.00;-#,##0.00' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='border-width' data-class='total' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='background-color' value='#f5f5f5' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+          </style-rule>
+          <style-rule element='table-div'>
+            <format attr='stroke-size' scope='rows' value='0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='datalabel'>
+                <format attr='color-mode' value='auto' />
+                <format attr='font-weight' value='bold' />
+                <format attr='font-size' value='11' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#4e79a7' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1wsyfxn1ih2t2w1b76am40wi4u10].[sum:Time:qk]</rows>
+        <cols>[federated.1wsyfxn1ih2t2w1b76am40wi4u10].[none:Name:nk]</cols>
+      </table>
+      <simple-id uuid='{D0255F7D-092E-48CA-A407-448B294D7F96}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='fit-width' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.1wsyfxn1ih2t2w1b76am40wi4u10].[none:Name:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{34AE7B3E-9251-4A7B-BCC4-8BE90D526500}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>

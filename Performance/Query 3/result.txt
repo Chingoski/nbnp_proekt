@@ -1,0 +1,4 @@
+>> HGETALL yellow_cards:Chelsea
+
+1) "amount"
+2) "1165"

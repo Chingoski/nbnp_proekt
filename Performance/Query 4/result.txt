@@ -1,0 +1,4 @@
+>> zrange tables:first-places 0 0 REV WITHSCORES
+
+1) "MAN"
+2) "7"

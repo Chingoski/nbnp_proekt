@@ -1,0 +1,19 @@
+>> ZRANGE table:2016 0 0 
+
+1) "CHE"
+>> HGETALL tables:CHE:2016
+
+ 1) "wins"
+ 2) "30"
+ 3) "draws"
+ 4) "3"
+ 5) "losses"
+ 6) "5"
+ 7) "goals_for"
+ 8) "85"
+ 9) "goals_against"
+10) "33"
+11) "goal_difference"
+12) "+52"
+13) "points"
+14) "93"

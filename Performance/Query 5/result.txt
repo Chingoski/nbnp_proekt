@@ -1,0 +1,18 @@
+>> zrange tables:top-three-finishes 0 -1 REV WITHSCORES
+
+ 1) "MAN"
+ 2) "16"
+ 3) "CHE"
+ 4) "14"
+ 5) "MNC"
+ 6) "10"
+ 7) "LIV"
+ 8) "9"
+ 9) "ASN"
+10) "9"
+11) "TOT"
+12) "3"
+13) "NEW"
+14) "1"
+15) "LEI"
+16) "1"

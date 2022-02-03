@@ -1,0 +1,9 @@
+#!/bin/bash
+while IFS="," read place team games_played wins draws losses goals_for goals_against goal_difference points year 
+do
+        MULTI="MULTI\n"
+        HMSET="HMSET tables:$year:$team games_played $games_played wins $wins draws $draws losses $losses goals_for $goals_for goals_against $goals_against goal_difference $goal_differrrence points $points\n"
+        EXEC="EXEC"
+
+        	$(echo -e "$MULTI$HMSET$EXEC" | redis-cli --pipe )
+done < <(tail -n Players.csv)

@@ -1,0 +1,10 @@
+#!/bin/bash
+while IFS="," id home away date year hour_start attendance venue league status home_score away_score home_possesion away_possesion home_shots away_shots home_fouls away_fouls home_yellow_cards away_yellow_cards home_red_cards away_red_cards home_offsides away_offsides home_corners away_corners home_saves away_saves
+do
+        MULTI="MULTI\n"
+        HMSET="HMSET matches:#$id home \"$home\"\n"
+        SADD="SADD all-matches #$id\n"
+        EXEC="EXEC"
+
+        $(echo -e "$MULTI$HMSET$SADD$YEAR_PLACMENT$TEAM_PLACMENT$EXEC" | redis-cli --pipe )
+done < <(tail -n +2 all_tables.csv)
